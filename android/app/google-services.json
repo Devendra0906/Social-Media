@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "207847553885",
+    "firebase_url": "https://prenigma-social.firebaseio.com",
+    "project_id": "prenigma-social",
+    "storage_bucket": "prenigma-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207847553885:android:57a7cf3f36c21c7fe286b4",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207847553885-nc8nbou24m395o7admmujigvigmcppk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2gSId0yY9yTNwZP6RPKTq4jiY25W36cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207847553885-nc8nbou24m395o7admmujigvigmcppk2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "207847553885-f8t4p66fje1b5dppq35rnhuqofvmlpoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prenigma.chain.care.doctors"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,72 @@
+emulator: autoconfig: -skin 1080x1920
+emulator: autoconfig: -skindir (null)
+emulator: autoconfig: -kernel C:\Users\spjum\AppData\Local\Android\Sdk\system-images\android-26\google_apis_playstore\x86\\kernel-ranchu
+emulator: Target arch = 'x86'
+emulator: Auto-config: -qemu -cpu qemu32
+emulator: Auto-detect: Kernel image requires new device naming scheme.
+emulator: Auto-detect: Kernel does not support YAFFS2 partitions.
+emulator: autoconfig: -ramdisk C:\Users\spjum\AppData\Local\Android\Sdk\system-images\android-26\google_apis_playstore\x86\\ramdisk.img
+emulator: Using initial system image: C:\Users\spjum\AppData\Local\Android\Sdk\system-images\android-26\google_apis_playstore\x86\\system.img
+emulator: Using initial vendor image: C:\Users\spjum\AppData\Local\Android\Sdk\system-images\android-26\google_apis_playstore\x86\\vendor.img
+emulator: autoconfig: -data C:\Users\spjum\.android\avd\OREO-Google-Play.avd\userdata-qemu.img
+emulator: autoconfig: -initdata C:\Users\spjum\.android\avd\OREO-Google-Play.avd\userdata.img
+emulator: autoconfig: -cache C:\Users\spjum\.android\avd\OREO-Google-Play.avd\cache.img
+emulator: autoconfig: -sdcard C:\Users\spjum\.android\avd\OREO-Google-Play.avd\sdcard.img
+emulator: Physical RAM size: 1536MB
+
+emulator: VM heap size 228MB is below hardware specified minimum of 384MB,setting it to that value
+emulator: System image is read only
+emulator: Found 4 DNS servers: 192.168.43.1 fec0:0:0:ffff::1 fec0:0:0:ffff::2 fec0:0:0:ffff::3
+emulator: VERBOSE: System.cpp:3003: querying file version info API...
+emulator: VERBOSE: System.cpp:3011: found kernelbase.dll
+emulator: VERBOSE: System.cpp:3019: GetFileVersionInfoSizeW found. On Windows 10?
+emulator: VERBOSE: System.cpp:3028: GetFileVersionInfoW found. On Windows 10?
+emulator: VERBOSE: System.cpp:3058: VerQueryValueW found. Can query file versions
+emulator: VERBOSE: System.cpp:3081: queryFileVersionInfo: path not found: amdvlk64.dll
+emulator: VERBOSE: System.cpp:3003: querying file version info API...
+emulator: VERBOSE: System.cpp:3081: queryFileVersionInfo: path not found: amdvlk32.dll
+emulator: VERBOSE: System.cpp:3003: querying file version info API...
+emulator: ERROR: Running multiple emulators with the same AVD is an experimental feature.
+Please use -read-only flag to enable this feature.
+
+emulator: Android emulator version 30.5.4.0 (build_id 7243153) (CL:N/A)
+emulator: Found AVD name 'OREO-Google-Play'
+emulator: Found AVD target architecture: x86
+emulator: argv[0]: 'C:\Users\spjum\AppData\Local\Android\Sdk\emulator\emulator.EXE'; program directory: 'C:\Users\spjum\AppData\Local\Android\Sdk\emulator'
+emulator:  Found directory: C:\Users\spjum\AppData\Local\Android\Sdk\system-images\android-26\google_apis_playstore\x86\
+
+emulator: emuDirName: 'C:\Users\spjum\AppData\Local\Android\Sdk\emulator'
+emulator:  Found directory: C:\Users\spjum\AppData\Local\Android\Sdk\system-images\android-26\google_apis_playstore\x86\
+
+emulator: Probing for C:\Users\spjum\AppData\Local\Android\Sdk\system-images\android-26\google_apis_playstore\x86\\kernel-ranchu-64: file missing
+emulator: try dir C:\Users\spjum\AppData\Local\Android\Sdk\emulator
+emulator: Trying emulator path 'C:\Users\spjum\AppData\Local\Android\Sdk\emulator\qemu\windows-x86_64\qemu-system-i386.exe'
+emulator: Found target-specific 64-bit emulator binary: C:\Users\spjum\AppData\Local\Android\Sdk\emulator\qemu\windows-x86_64\qemu-system-i386.exe
+emulator: Adding library search path: 'C:\Users\spjum\AppData\Local\Android\Sdk\emulator\lib64'
+emulator: Adding library search path: 'C:\Users\spjum\AppData\Local\Android\Sdk\emulator\lib64\gles_angle'
+emulator: Adding library search path: 'C:\Users\spjum\AppData\Local\Android\Sdk\emulator\lib64\gles_angle9'
+emulator: Adding library search path: 'C:\Users\spjum\AppData\Local\Android\Sdk\emulator\lib64\gles_angle11'
+emulator: Adding library search path: 'C:\Users\spjum\AppData\Local\Android\Sdk\emulator\lib64\gles_swiftshader'
+emulator: Adding library search path for Qt: 'C:\Users\spjum\AppData\Local\Android\Sdk\emulator\lib64\qt\lib'
+emulator: Silencing all qWarning(); use qCWarning(...) instead: QT_LOGGING_RULES=default.warning=false
+emulator: Setting Qt plugin search path: QT_QPA_PLATFORM_PLUGIN_PATH=C:\Users\spjum\AppData\Local\Android\Sdk\emulator\lib64\qt\plugins
+emulator: Setting Qt to use software OpenGL: QT_OPENGL=software
+emulator: Setting QML to use software QtQuick2D: QMLSCENE_DEVICE=softwarecontext
+emulator: Overriding pre-existing bad Qt high dpi settings...
+emulator: Quoted param: [C:\Users\spjum\AppData\Local\Android\Sdk\emulator\qemu\windows-x86_64\qemu-system-i386.exe]
+emulator: Quoted param: [-verbose]
+emulator: Quoted param: [-no-audio]
+emulator: Quoted param: [-no-boot-anim]
+emulator: Quoted param: [-port]
+emulator: Quoted param: [10516]
+emulator: Quoted param: [@OREO-Google-Play]
+emulator: Running :C:\Users\spjum\AppData\Local\Android\Sdk\emulator\qemu\windows-x86_64\qemu-system-i386.exe
+emulator: qemu backend: argv[00] = "C:\Users\spjum\AppData\Local\Android\Sdk\emulator\qemu\windows-x86_64\qemu-system-i386.exe"
+emulator: qemu backend: argv[01] = "-verbose"
+emulator: qemu backend: argv[02] = "-no-audio"
+emulator: qemu backend: argv[03] = "-no-boot-anim"
+emulator: qemu backend: argv[04] = "-port"
+emulator: qemu backend: argv[05] = "10516"
+emulator: qemu backend: argv[06] = "@OREO-Google-Play"
+emulator: Concatenated backend parameters:
+ C:\Users\spjum\AppData\Local\Android\Sdk\emulator\qemu\windows-x86_64\qemu-system-i386.exe -verbose -no-audio -no-boot-anim -port 10516 @OREO-Google-Play

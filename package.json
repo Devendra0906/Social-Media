@@ -1,0 +1,133 @@
+{
+  "name": "socialApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint .",
+    "android-bundle": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "@react-native-community/async-storage": "1.7.1",
+    "@react-native-community/datetimepicker": "2.1.0",
+    "@react-native-community/masked-view": "0.1.7",
+    "@react-native-community/slider": "^3.0.3",
+    "@react-native-community/toolbar-android": "^0.1.0-rc.2",
+    "@react-native-firebase/app": "^8.2.0",
+    "@react-native-firebase/messaging": "^7.5.0",
+    "@react-navigation/bottom-tabs": "5.2.4",
+    "@react-navigation/drawer": "^5.8.4",
+    "@react-navigation/native": "5.1.3",
+    "@react-navigation/stack": "5.2.8",
+    "appcenter": "^3.0.3",
+    "appcenter-analytics": "^3.0.3",
+    "appcenter-crashes": "^3.0.3",
+    "appium": "1.16.0",
+    "appium-doctor": "1.13.0",
+    "axios": "^0.19.2",
+    "color": "3.1.2",
+    "enzyme": "^3.11.0",
+    "jwt-decode": "2.2.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "native-base": "2.13.8",
+    "prop-types": "^15.7.2",
+    "query-string": "6.11.1",
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-action-button": "^2.8.5",
+    "react-native-actionsheet": "^2.4.2",
+    "react-native-calendar-strip": "1.4.1",
+    "react-native-calendars": "^1.265.0",
+    "react-native-device-info": "5.4.1",
+    "react-native-elements": "1.2.7",
+    "react-native-fast-image": "7.0.2",
+    "react-native-gesture-handler": "1.5.3",
+    "react-native-gifted-chat": "0.13.0",
+    "react-native-image-picker": "2.1.0",
+    "react-native-image-progress": "1.1.1",
+    "react-native-loading-spinner-overlay": "1.0.1",
+    "react-native-localization": "2.1.6",
+    "react-native-maps": "0.26.1",
+    "react-native-material-dropdown": "0.11.1",
+    "react-native-modal-datetime-picker": "8.1.1",
+    "react-native-picker-select": "^7.0.0",
+    "react-native-progress": "4.0.3",
+    "react-native-reanimated": "1.7.0",
+    "react-native-safe-area-context": "0.6.2",
+    "react-native-screens": "2.0.0-alpha.27",
+    "react-native-search-filter": "^0.1.5",
+    "react-native-select-multiple": "^2.1.0",
+    "react-native-simple-picker": "^3.1.2",
+    "react-native-swipe-gestures": "^1.0.5",
+    "react-native-swiper": "^1.6.0",
+    "react-native-switch-pro": "^1.0.4",
+    "react-native-tab-view": "2.11.0",
+    "react-native-typing-animation": "0.1.7",
+    "react-native-vector-icons": "^7.1.0",
+    "react-native-webview": "8.0.6",
+    "react-redux": "7.1.3",
+    "redux": "4.0.5",
+    "redux-form": "8.2.6",
+    "redux-persist": "6.0.0",
+    "redux-thunk": "2.3.0",
+    "tslib": "1.10.0",
+    "wd": "1.12.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.13.9",
+    "@babel/runtime": "^7.13.9",
+    "@react-native-community/eslint-config": "^0.0.6",
+    "@wdio/appium-service": "^6.1.16",
+    "@wdio/jasmine-framework": "^6.1.14",
+    "@wdio/local-runner": "^6.1.16",
+    "@wdio/spec-reporter": "^6.1.14",
+    "@wdio/sync": "^6.1.14",
+    "babel-jest": "^25.1.0",
+    "detox": "^18.12.0",
+    "eslint": "^6.8.0",
+    "jest": "^25.5.4",
+    "jest-circus": "^26.6.3",
+    "metro-react-native-babel-preset": "^0.58.0",
+    "moxios": "^0.4.0",
+    "node-pre-gyp": "0.12.0",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native",
+    "transformIgnorePatterns": [
+      "node_modules/(?!(jest-)?react-native|@?react-navigation)"
+    ],
+    "setupFiles": [
+      "./node_modules/react-native-gesture-handler/jestSetup.js"
+    ]
+  },
+  "detox": {
+    "configurations": {
+      "android.emu.debug": {
+        "binaryPath": "android/app/build/outputs/apk/debug/app-debug.apk",
+        "build": "cd android && ./gradlew assembleDebug assembleAndroidTest -DtestBuildType=debug && cd ..",
+        "type": "android.emulator",
+        "name": "OREO-Google-Play"
+      },
+      "android.emu.release": {
+        "binaryPath": "android/app/build/outputs/apk/release/app-release.apk",
+        "build": "cd android && ./gradlew assembleRelease assembleAndroidTest -DtestBuildType=release && cd ..",
+        "type": "android.emulator",
+        "name": "OREO-Google-Play"
+      },
+      "android.wallet.device": {
+        "binaryPath": "android/app/build/outputs/apk/debug/app-debug.apk",
+        "build": "cd android && ./gradlew assembleDebug assembleAndroidTest -DtestBuildType=debug && cd ..",
+        "type": "android.attached",
+        "name": "HXT7N189110016862"
+      }
+    },
+    "test-runner": "jest"
+  }
+}

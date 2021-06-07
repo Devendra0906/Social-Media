@@ -1,0 +1,2879 @@
+{
+  "launched": true,
+  "title": "Germany",
+  "content": [
+    {
+      "type": "big-image",
+      "tag": {
+        "_id": "5d2d9f498956d6cc3c2755c8",
+        "companies": [
+          {
+            "_id": "5bbf101aa2286430105dd2dd",
+            "logo": {
+              "_id": "5bbf1213d36e5326102e18c7",
+              "name": "26907463_1579302572158520_5161582163172755544_n.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5bbf1213d36e5326102e18c7/[%width%]x[%height%]/26907463_1579302572158520_5161582163172755544_n.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5bbf1213d36e5326102e18c7",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5bbf1213d36e5326102e18c7/1024x500/26907463_1579302572158520_5161582163172755544_n.jpg"
+            }
+          },
+          {
+            "_id": "5bd9ec95529334a872e4326e",
+            "logo": {
+              "_id": "5c0e8817f6e0db8c668c75ee",
+              "name": "Logo_Round.PNG",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c0e8817f6e0db8c668c75ee/[%width%]x[%height%]/Logo_Round.PNG",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c0e8817f6e0db8c668c75ee",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c0e8817f6e0db8c668c75ee/1024x500/Logo_Round.PNG"
+            }
+          },
+          {
+            "_id": "5be43ba9cddad35a339b8bfa",
+            "logo": {
+              "_id": "5dc999ea08298d00126d03f3",
+              "name": "Humanitec_logo_11.11.19.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5dc999ea08298d00126d03f3/[%width%]x[%height%]/Humanitec_logo_11.11.19.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5dc999ea08298d00126d03f3",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5dc999ea08298d00126d03f3/1024x500/Humanitec_logo_11.11.19.png"
+            }
+          },
+          {
+            "_id": "5bfe998a776b0bd336235736",
+            "logo": {
+              "_id": "5d15c139e126cf1746ac2c52",
+              "name": "GLIPSA_1.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d15c139e126cf1746ac2c52/[%width%]x[%height%]/GLIPSA_1.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d15c139e126cf1746ac2c52",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d15c139e126cf1746ac2c52/1024x500/GLIPSA_1.jpeg"
+            }
+          },
+          {
+            "_id": "5bfea3f541ff48dd36d31f2d",
+            "logo": {
+              "_id": "5c6a9c2a896842857aba826a",
+              "name": "0.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c6a9c2a896842857aba826a/[%width%]x[%height%]/0.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c6a9c2a896842857aba826a",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c6a9c2a896842857aba826a/1024x500/0.jpg"
+            }
+          },
+          {
+            "_id": "5c29e254fdcbd5bf2f6c12d3",
+            "logo": {
+              "_id": "5c29e8f69c6f403b45e240cc",
+              "name": "10592686_632971603490683_452556515374283343_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c29e8f69c6f403b45e240cc/[%width%]x[%height%]/10592686_632971603490683_452556515374283343_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c29e8f69c6f403b45e240cc",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c29e8f69c6f403b45e240cc/1024x500/10592686_632971603490683_452556515374283343_n.png"
+            }
+          },
+          {
+            "_id": "5c4593b74ea57747144288a4",
+            "logo": {
+              "_id": "5c459490887d4051149b8d49",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c459490887d4051149b8d49/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c459490887d4051149b8d49",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c459490887d4051149b8d49/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c459c1e887d4051149b8d68",
+            "logo": {
+              "_id": "5c459ce64ea57747144288c8",
+              "name": "pf1v4mbbmgay68t1atow.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c459ce64ea57747144288c8/[%width%]x[%height%]/pf1v4mbbmgay68t1atow.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c459ce64ea57747144288c8",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c459ce64ea57747144288c8/1024x500/pf1v4mbbmgay68t1atow.png"
+            }
+          },
+          {
+            "_id": "5c45aa8400064db92683bdbe",
+            "logo": {
+              "_id": "5c45aafa00064db92683bdc2",
+              "name": "d15wjekhwwdrk8547z9r.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c45aafa00064db92683bdc2/[%width%]x[%height%]/d15wjekhwwdrk8547z9r.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c45aafa00064db92683bdc2",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c45aafa00064db92683bdc2/1024x500/d15wjekhwwdrk8547z9r.png"
+            }
+          },
+          {
+            "_id": "5c45ab7c4e8f33c32684a0e3",
+            "logo": {
+              "_id": "5c45abdf00064db92683bdc5",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c45abdf00064db92683bdc5/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c45abdf00064db92683bdc5",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c45abdf00064db92683bdc5/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c45dab01219c5225bdb897e",
+            "logo": {
+              "_id": "5c45dad51219c5225bdb8982",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c45dad51219c5225bdb8982/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c45dad51219c5225bdb8982",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c45dad51219c5225bdb8982/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c472e901ba8aee54e4ecf71",
+            "logo": {
+              "_id": "5c472ece55095edb4e05ff23",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c472ece55095edb4e05ff23/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c472ece55095edb4e05ff23",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c472ece55095edb4e05ff23/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c4731551ba8aee54e4ecfcf",
+            "logo": {
+              "_id": "5c481d9bcc6d60ec02813cbe",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c481d9bcc6d60ec02813cbe/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c481d9bcc6d60ec02813cbe",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c481d9bcc6d60ec02813cbe/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c484c1180fe8547420fd13a",
+            "logo": {
+              "_id": "5c484c4780fe8547420fd13e",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c484c4780fe8547420fd13e/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c484c4780fe8547420fd13e",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c484c4780fe8547420fd13e/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c4ac1002a49c43d6e6f8119",
+            "logo": {
+              "_id": "5c4ac1652a49c43d6e6f811e",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4ac1652a49c43d6e6f811e/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ac1652a49c43d6e6f811e",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ac1652a49c43d6e6f811e/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c4ec7f40213930262998833",
+            "logo": {
+              "_id": "5c4ec836c8dc590c624663f6",
+              "name": "39821894_663613257327743_7514363038917459968_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4ec836c8dc590c624663f6/[%width%]x[%height%]/39821894_663613257327743_7514363038917459968_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ec836c8dc590c624663f6",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ec836c8dc590c624663f6/1024x500/39821894_663613257327743_7514363038917459968_n.png"
+            }
+          },
+          {
+            "_id": "5c4efa3c0213930262998916",
+            "logo": {
+              "_id": "5c4efa7b0213930262998919",
+              "name": "16508516_1521500671211052_8025408150899769337_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4efa7b0213930262998919/[%width%]x[%height%]/16508516_1521500671211052_8025408150899769337_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4efa7b0213930262998919",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4efa7b0213930262998919/1024x500/16508516_1521500671211052_8025408150899769337_n.png"
+            }
+          },
+          {
+            "_id": "5c4efaedc8dc590c624664d8",
+            "logo": {
+              "_id": "5c4efe98c8dc590c624664e0",
+              "name": "swing.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4efe98c8dc590c624664e0/[%width%]x[%height%]/swing.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4efe98c8dc590c624664e0",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4efe98c8dc590c624664e0/1024x500/swing.png"
+            }
+          },
+          {
+            "_id": "5c4efd2fc8dc590c624664dd",
+            "logo": {
+              "_id": "5d1da7eb6abf93a47db7cfd8",
+              "name": "webimage_3D579A42_DAA0_48CB_94792640FD7051B9.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1da7eb6abf93a47db7cfd8/[%width%]x[%height%]/webimage_3D579A42_DAA0_48CB_94792640FD7051B9.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1da7eb6abf93a47db7cfd8",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1da7eb6abf93a47db7cfd8/1024x500/webimage_3D579A42_DAA0_48CB_94792640FD7051B9.png"
+            }
+          },
+          {
+            "_id": "5c4f09a2c8dc590c6246652f",
+            "logo": {
+              "_id": "5c4f09b4c8dc590c62466533",
+              "name": "10553498_595844543898564_1504530745399881084_n.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4f09b4c8dc590c62466533/[%width%]x[%height%]/10553498_595844543898564_1504530745399881084_n.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f09b4c8dc590c62466533",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f09b4c8dc590c62466533/1024x500/10553498_595844543898564_1504530745399881084_n.jpg"
+            }
+          },
+          {
+            "_id": "5c4f0a9a0213930262998970",
+            "logo": {
+              "_id": "5c4f0b130213930262998976",
+              "name": "clever.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4f0b130213930262998976/[%width%]x[%height%]/clever.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f0b130213930262998976",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f0b130213930262998976/1024x500/clever.png"
+            }
+          },
+          {
+            "_id": "5c4f0cb4c8dc590c62466548",
+            "logo": {
+              "_id": "5c4f0ceac8dc590c6246654b",
+              "name": "weq.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4f0ceac8dc590c6246654b/[%width%]x[%height%]/weq.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f0ceac8dc590c6246654b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f0ceac8dc590c6246654b/1024x500/weq.jpg"
+            }
+          },
+          {
+            "_id": "5c4f11d9021393026299899b",
+            "logo": {
+              "_id": "5c4f11ee021393026299899e",
+              "name": "pen.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4f11ee021393026299899e/[%width%]x[%height%]/pen.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f11ee021393026299899e",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f11ee021393026299899e/1024x500/pen.png"
+            }
+          },
+          {
+            "_id": "5c4f17acc8dc590c62466582",
+            "logo": {
+              "_id": "5d07b9b77d69284935611990",
+              "name": "53050715_2074677709283358_3734656578507243520_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d07b9b77d69284935611990/[%width%]x[%height%]/53050715_2074677709283358_3734656578507243520_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d07b9b77d69284935611990",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d07b9b77d69284935611990/1024x500/53050715_2074677709283358_3734656578507243520_n.png"
+            }
+          },
+          {
+            "_id": "5c4fff7869c391db1b133bc6",
+            "logo": {
+              "_id": "5c4fffe39be98fe51bb0f832",
+              "name": "talent.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4fffe39be98fe51bb0f832/[%width%]x[%height%]/talent.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4fffe39be98fe51bb0f832",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4fffe39be98fe51bb0f832/1024x500/talent.png"
+            }
+          },
+          {
+            "_id": "5c50079c69c391db1b133bf7",
+            "logo": {
+              "_id": "5c50085a9be98fe51bb0f868",
+              "name": "crypto.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c50085a9be98fe51bb0f868/[%width%]x[%height%]/crypto.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c50085a9be98fe51bb0f868",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c50085a9be98fe51bb0f868/1024x500/crypto.png"
+            }
+          },
+          {
+            "_id": "5c500f4269c391db1b133c80",
+            "logo": {
+              "_id": "5c500f5169c391db1b133c83",
+              "name": "12687977_875742282523424_4057412448113667255_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c500f5169c391db1b133c83/[%width%]x[%height%]/12687977_875742282523424_4057412448113667255_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c500f5169c391db1b133c83",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c500f5169c391db1b133c83/1024x500/12687977_875742282523424_4057412448113667255_n.png"
+            }
+          },
+          {
+            "_id": "5c5011769be98fe51bb0f8f9",
+            "logo": {
+              "_id": "5c50129669c391db1b133c9b",
+              "name": "kaia.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c50129669c391db1b133c9b/[%width%]x[%height%]/kaia.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c50129669c391db1b133c9b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c50129669c391db1b133c9b/1024x500/kaia.png"
+            }
+          },
+          {
+            "_id": "5c5016789be98fe51bb0f912",
+            "logo": {
+              "_id": "5c50168d69c391db1b133cb6",
+              "name": "nep.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c50168d69c391db1b133cb6/[%width%]x[%height%]/nep.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c50168d69c391db1b133cb6",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c50168d69c391db1b133cb6/1024x500/nep.jpg"
+            }
+          },
+          {
+            "_id": "5c501a189be98fe51bb0f91a",
+            "logo": {
+              "_id": "5c501b139be98fe51bb0f920",
+              "name": "save.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c501b139be98fe51bb0f920/[%width%]x[%height%]/save.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c501b139be98fe51bb0f920",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c501b139be98fe51bb0f920/1024x500/save.png"
+            }
+          },
+          {
+            "_id": "5c501aa169c391db1b133cc0",
+            "logo": {
+              "_id": "5c501adf9be98fe51bb0f91d",
+              "name": "think.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c501adf9be98fe51bb0f91d/[%width%]x[%height%]/think.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c501adf9be98fe51bb0f91d",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c501adf9be98fe51bb0f91d/1024x500/think.jpg"
+            }
+          },
+          {
+            "_id": "5c501cf669c391db1b133cdc",
+            "logo": {
+              "_id": "5c501d689be98fe51bb0f943",
+              "name": "21743300_356920158053888_6968624224856020285_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c501d689be98fe51bb0f943/[%width%]x[%height%]/21743300_356920158053888_6968624224856020285_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c501d689be98fe51bb0f943",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c501d689be98fe51bb0f943/1024x500/21743300_356920158053888_6968624224856020285_n.png"
+            }
+          },
+          {
+            "_id": "5c5022379be98fe51bb0f94b",
+            "logo": {
+              "_id": "5c5022c89be98fe51bb0f94e",
+              "name": "xain.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5022c89be98fe51bb0f94e/[%width%]x[%height%]/xain.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5022c89be98fe51bb0f94e",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5022c89be98fe51bb0f94e/1024x500/xain.png"
+            }
+          },
+          {
+            "_id": "5c5023919be98fe51bb0f951",
+            "logo": {
+              "_id": "5c5023d19be98fe51bb0f954",
+              "name": "op.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5023d19be98fe51bb0f954/[%width%]x[%height%]/op.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5023d19be98fe51bb0f954",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5023d19be98fe51bb0f954/1024x500/op.jpg"
+            }
+          },
+          {
+            "_id": "5c502e4a69c391db1b133d25",
+            "logo": {
+              "_id": "5c502eac69c391db1b133d31",
+              "name": "alt.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c502eac69c391db1b133d31/[%width%]x[%height%]/alt.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c502eac69c391db1b133d31",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c502eac69c391db1b133d31/1024x500/alt.png"
+            }
+          },
+          {
+            "_id": "5c50317869c391db1b133d50",
+            "logo": {
+              "_id": "5c5031c769c391db1b133d53",
+              "name": "46756093_973691206175518_1398471691226578944_o.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5031c769c391db1b133d53/[%width%]x[%height%]/46756093_973691206175518_1398471691226578944_o.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5031c769c391db1b133d53",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5031c769c391db1b133d53/1024x500/46756093_973691206175518_1398471691226578944_o.png"
+            }
+          },
+          {
+            "_id": "5c5032f269c391db1b133d58",
+            "logo": {
+              "_id": "5c50337d9be98fe51bb0fa1f",
+              "name": "icon.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c50337d9be98fe51bb0fa1f/[%width%]x[%height%]/icon.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c50337d9be98fe51bb0fa1f",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c50337d9be98fe51bb0fa1f/1024x500/icon.jpg"
+            }
+          },
+          {
+            "_id": "5c50343069c391db1b133d5b",
+            "logo": {
+              "_id": "5c5034769be98fe51bb0fa21",
+              "name": "14729324_700470716777374_7776192579509432071_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5034769be98fe51bb0fa21/[%width%]x[%height%]/14729324_700470716777374_7776192579509432071_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5034769be98fe51bb0fa21",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5034769be98fe51bb0fa21/1024x500/14729324_700470716777374_7776192579509432071_n.png"
+            }
+          },
+          {
+            "_id": "5c50469811397e55448691e6",
+            "logo": {
+              "_id": "5c50483b11397e5544869238",
+              "name": "legal.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c50483b11397e5544869238/[%width%]x[%height%]/legal.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c50483b11397e5544869238",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c50483b11397e5544869238/1024x500/legal.png"
+            }
+          },
+          {
+            "_id": "5c504d4811397e55448692f5",
+            "logo": {
+              "_id": "5c504e2e11397e5544869300",
+              "name": "agor.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c504e2e11397e5544869300/[%width%]x[%height%]/agor.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c504e2e11397e5544869300",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c504e2e11397e5544869300/1024x500/agor.png"
+            }
+          },
+          {
+            "_id": "5c50516a11397e554486934f",
+            "logo": {
+              "_id": "5c5053295d81fc5f4425a632",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5053295d81fc5f4425a632/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5053295d81fc5f4425a632",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5053295d81fc5f4425a632/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c50542711397e554486935f",
+            "logo": {
+              "_id": "5c5054405d81fc5f4425ab52",
+              "name": "fb1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5054405d81fc5f4425ab52/[%width%]x[%height%]/fb1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5054405d81fc5f4425ab52",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5054405d81fc5f4425ab52/1024x500/fb1.png"
+            }
+          },
+          {
+            "_id": "5c505ace5d81fc5f4425ab6e",
+            "logo": {
+              "_id": "5c505b2d11397e554486937e",
+              "name": "shop.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c505b2d11397e554486937e/[%width%]x[%height%]/shop.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c505b2d11397e554486937e",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c505b2d11397e554486937e/1024x500/shop.png"
+            }
+          },
+          {
+            "_id": "5c505b2e11397e554486937f",
+            "logo": {
+              "_id": "5c505b5c5d81fc5f4425ab75",
+              "name": "opi.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c505b5c5d81fc5f4425ab75/[%width%]x[%height%]/opi.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c505b5c5d81fc5f4425ab75",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c505b5c5d81fc5f4425ab75/1024x500/opi.png"
+            }
+          },
+          {
+            "_id": "5c505ebc7b1f44197dda96d6",
+            "logo": {
+              "_id": "5c505f02cfbb120f7d67c271",
+              "name": "plus.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c505f02cfbb120f7d67c271/[%width%]x[%height%]/plus.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c505f02cfbb120f7d67c271",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c505f02cfbb120f7d67c271/1024x500/plus.jpg"
+            }
+          },
+          {
+            "_id": "5c505feccfbb120f7d67c273",
+            "logo": {
+              "_id": "5c506066cfbb120f7d67c278",
+              "name": "ter.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c506066cfbb120f7d67c278/[%width%]x[%height%]/ter.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c506066cfbb120f7d67c278",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c506066cfbb120f7d67c278/1024x500/ter.jpg"
+            }
+          },
+          {
+            "_id": "5c51586f32291caf2bdfe677",
+            "logo": {
+              "_id": "5c5158a90c9c05a32b117543",
+              "name": "fable.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5158a90c9c05a32b117543/[%width%]x[%height%]/fable.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5158a90c9c05a32b117543",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5158a90c9c05a32b117543/1024x500/fable.png"
+            }
+          },
+          {
+            "_id": "5c51760e32291caf2bdfe984",
+            "logo": {
+              "_id": "5c51763f32291caf2bdfe987",
+              "name": "afin1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51763f32291caf2bdfe987/[%width%]x[%height%]/afin1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51763f32291caf2bdfe987",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51763f32291caf2bdfe987/1024x500/afin1.png"
+            }
+          },
+          {
+            "_id": "5c5176ac0c9c05a32b1177c2",
+            "logo": {
+              "_id": "5c5176be32291caf2bdfe98d",
+              "name": "com.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5176be32291caf2bdfe98d/[%width%]x[%height%]/com.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5176be32291caf2bdfe98d",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5176be32291caf2bdfe98d/1024x500/com.png"
+            }
+          },
+          {
+            "_id": "5c51788b32291caf2bdfe994",
+            "logo": {
+              "_id": "5c5178cf0c9c05a32b1177cb",
+              "name": "ifu1.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5178cf0c9c05a32b1177cb/[%width%]x[%height%]/ifu1.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5178cf0c9c05a32b1177cb",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5178cf0c9c05a32b1177cb/1024x500/ifu1.jpg"
+            }
+          },
+          {
+            "_id": "5c517b3d32291caf2bdfe9a1",
+            "logo": {
+              "_id": "5c517b6d0c9c05a32b1177d4",
+              "name": "com1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c517b6d0c9c05a32b1177d4/[%width%]x[%height%]/com1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c517b6d0c9c05a32b1177d4",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c517b6d0c9c05a32b1177d4/1024x500/com1.png"
+            }
+          },
+          {
+            "_id": "5c517d3c0c9c05a32b1177d7",
+            "logo": {
+              "_id": "5c517de032291caf2bdfe9ae",
+              "name": "111.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c517de032291caf2bdfe9ae/[%width%]x[%height%]/111.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c517de032291caf2bdfe9ae",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c517de032291caf2bdfe9ae/1024x500/111.jpg"
+            }
+          },
+          {
+            "_id": "5c518b457692a30f2fa88dd3",
+            "logo": {
+              "_id": "5c518b837692a30f2fa88dd6",
+              "name": "2sc.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c518b837692a30f2fa88dd6/[%width%]x[%height%]/2sc.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c518b837692a30f2fa88dd6",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c518b837692a30f2fa88dd6/1024x500/2sc.jpg"
+            }
+          },
+          {
+            "_id": "5c5190097239c0192fed332c",
+            "logo": {
+              "_id": "5c51911e7692a30f2fa88e09",
+              "name": "rem.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51911e7692a30f2fa88e09/[%width%]x[%height%]/rem.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51911e7692a30f2fa88e09",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51911e7692a30f2fa88e09/1024x500/rem.png"
+            }
+          },
+          {
+            "_id": "5c5192d57692a30f2fa88e0e",
+            "logo": {
+              "_id": "5c5193467239c0192fed3341",
+              "name": "pla1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5193467239c0192fed3341/[%width%]x[%height%]/pla1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5193467239c0192fed3341",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5193467239c0192fed3341/1024x500/pla1.png"
+            }
+          },
+          {
+            "_id": "5c5196727a32e01240744737",
+            "logo": {
+              "_id": "5c51967f3cca7e0840a89e5f",
+              "name": "pass1.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51967f3cca7e0840a89e5f/[%width%]x[%height%]/pass1.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51967f3cca7e0840a89e5f",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51967f3cca7e0840a89e5f/1024x500/pass1.jpg"
+            }
+          },
+          {
+            "_id": "5c519a703cca7e0840a8a04d",
+            "logo": {
+              "_id": "5c519cc27a32e0124074490c",
+              "name": "1200px_General_Electric_logo.svg.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c519cc27a32e0124074490c/[%width%]x[%height%]/1200px_General_Electric_logo.svg.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c519cc27a32e0124074490c",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c519cc27a32e0124074490c/1024x500/1200px_General_Electric_logo.svg.png"
+            }
+          },
+          {
+            "_id": "5c51a1463cca7e0840a8a06c",
+            "logo": {
+              "_id": "5c51a1573cca7e0840a8a070",
+              "name": "od1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51a1573cca7e0840a8a070/[%width%]x[%height%]/od1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51a1573cca7e0840a8a070",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51a1573cca7e0840a8a070/1024x500/od1.png"
+            }
+          },
+          {
+            "_id": "5c51ae453cca7e0840a8a0c3",
+            "logo": {
+              "_id": "5c51af3b7a32e012407449ed",
+              "name": "46692417_2199259226772283_4718383533024870400_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51af3b7a32e012407449ed/[%width%]x[%height%]/46692417_2199259226772283_4718383533024870400_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51af3b7a32e012407449ed",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51af3b7a32e012407449ed/1024x500/46692417_2199259226772283_4718383533024870400_n.png"
+            }
+          },
+          {
+            "_id": "5c51b5653cca7e0840a8a0da",
+            "logo": {
+              "_id": "5c51b5cb3cca7e0840a8a0e1",
+              "name": "street.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51b5cb3cca7e0840a8a0e1/[%width%]x[%height%]/street.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51b5cb3cca7e0840a8a0e1",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51b5cb3cca7e0840a8a0e1/1024x500/street.jpg"
+            }
+          },
+          {
+            "_id": "5c52a28e1e1ef8c7157933ce",
+            "logo": {
+              "_id": "5c52a2e1feb508bd154b7e8c",
+              "name": "26232724_1948968135320180_20541167888877053_o.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c52a2e1feb508bd154b7e8c/[%width%]x[%height%]/26232724_1948968135320180_20541167888877053_o.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52a2e1feb508bd154b7e8c",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52a2e1feb508bd154b7e8c/1024x500/26232724_1948968135320180_20541167888877053_o.png"
+            }
+          },
+          {
+            "_id": "5c52af207186183b53e3d421",
+            "logo": {
+              "_id": "5c52af637186183b53e3d424",
+              "name": "take.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424/[%width%]x[%height%]/take.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424/1024x500/take.png"
+            }
+          },
+          {
+            "_id": "5c52b1b27186183b53e3d4b6",
+            "logo": {
+              "_id": "5c52b1ea81d9112d533f3ef1",
+              "name": "sono.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c52b1ea81d9112d533f3ef1/[%width%]x[%height%]/sono.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52b1ea81d9112d533f3ef1",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52b1ea81d9112d533f3ef1/1024x500/sono.jpg"
+            }
+          },
+          {
+            "_id": "5c653beb37d43e2142334ce7",
+            "logo": {
+              "_id": "5d0797e42712a2be7fc63a2e",
+              "name": "caresyntax1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0797e42712a2be7fc63a2e/[%width%]x[%height%]/caresyntax1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0797e42712a2be7fc63a2e",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0797e42712a2be7fc63a2e/1024x500/caresyntax1.png"
+            }
+          },
+          {
+            "_id": "5c6ea9bdce5c25d579d3f62c",
+            "logo": {
+              "_id": "5c6eaa07ce5c25d579d3f63b",
+              "name": "48412319_995595637307380_2776443409060069376_o.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c6eaa07ce5c25d579d3f63b/[%width%]x[%height%]/48412319_995595637307380_2776443409060069376_o.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c6eaa07ce5c25d579d3f63b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c6eaa07ce5c25d579d3f63b/1024x500/48412319_995595637307380_2776443409060069376_o.jpg"
+            }
+          },
+          {
+            "_id": "5c6ecbb2b9fce06c4a38f713",
+            "logo": {
+              "_id": "5d15be8cdc572a2146cacbac",
+              "name": "compera_1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d15be8cdc572a2146cacbac/[%width%]x[%height%]/compera_1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d15be8cdc572a2146cacbac",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d15be8cdc572a2146cacbac/1024x500/compera_1.png"
+            }
+          },
+          {
+            "_id": "5c7f7f85df7f1e073ee8a0b7",
+            "logo": {
+              "_id": "5d07868e6f22abb47fe6ae07",
+              "name": "AMONOVA_1.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d07868e6f22abb47fe6ae07/[%width%]x[%height%]/AMONOVA_1.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d07868e6f22abb47fe6ae07",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d07868e6f22abb47fe6ae07/1024x500/AMONOVA_1.jpeg"
+            }
+          },
+          {
+            "_id": "5cb4668002d813467dd1e573",
+            "logo": {
+              "_id": "5cb4668899cb345f2a6373f2",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5cb4668899cb345f2a6373f2/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5cb4668899cb345f2a6373f2",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5cb4668899cb345f2a6373f2/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d0a20d2b4f839114a46d4dc",
+            "logo": {
+              "_id": "5d0a267c6e72c65461d840cd",
+              "name": "flixbus1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0a267c6e72c65461d840cd/[%width%]x[%height%]/flixbus1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a267c6e72c65461d840cd",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a267c6e72c65461d840cd/1024x500/flixbus1.png"
+            }
+          },
+          {
+            "_id": "5d0a2939ebdc36074a4c22f5",
+            "logo": {
+              "_id": "5d0b39a2e69337b17e444595",
+              "name": "PAYFIT1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b39a2e69337b17e444595/[%width%]x[%height%]/PAYFIT1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b39a2e69337b17e444595",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b39a2e69337b17e444595/1024x500/PAYFIT1.png"
+            }
+          },
+          {
+            "_id": "5d0b4eae2f4957a77ebc4710",
+            "logo": {
+              "_id": "5d0b4ef62f4957a77ebc4717",
+              "name": "3.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b4ef62f4957a77ebc4717/[%width%]x[%height%]/3.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b4ef62f4957a77ebc4717",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b4ef62f4957a77ebc4717/1024x500/3.jpg"
+            }
+          },
+          {
+            "_id": "5d0b5a5a2f4957a77ebc4755",
+            "logo": {
+              "_id": "5d0b5ac02f4957a77ebc4759",
+              "name": "5.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b5ac02f4957a77ebc4759/[%width%]x[%height%]/5.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b5ac02f4957a77ebc4759",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b5ac02f4957a77ebc4759/1024x500/5.jpg"
+            }
+          },
+          {
+            "_id": "5d0e7e225ee2aceb1ab1c99c",
+            "logo": {
+              "_id": "5d11b99994af09a3721ed53b",
+              "name": "omio_1.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d11b99994af09a3721ed53b/[%width%]x[%height%]/omio_1.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d11b99994af09a3721ed53b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d11b99994af09a3721ed53b/1024x500/omio_1.jpeg"
+            }
+          },
+          {
+            "_id": "5d0fa3e3211efef11a341e48",
+            "logo": {
+              "_id": "5d1deecf6abf93a47db804d3",
+              "name": "Logotype_Orange_Black_04.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1deecf6abf93a47db804d3/[%width%]x[%height%]/Logotype_Orange_Black_04.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1deecf6abf93a47db804d3",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1deecf6abf93a47db804d3/1024x500/Logotype_Orange_Black_04.png"
+            }
+          },
+          {
+            "_id": "5d13251bee4403f16fdc1bbf",
+            "logo": {
+              "_id": "5d1344ff19cd190b4806a2db",
+              "name": "grover_logo_mark_gradient.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1344ff19cd190b4806a2db/[%width%]x[%height%]/grover_logo_mark_gradient.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1344ff19cd190b4806a2db",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1344ff19cd190b4806a2db/1024x500/grover_logo_mark_gradient.png"
+            }
+          },
+          {
+            "_id": "5d133b99a9c697222719e319",
+            "logo": {
+              "_id": "5d134a58b824d71c27526e9f",
+              "name": "Smavoo_Logo_schwarz.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d134a58b824d71c27526e9f/[%width%]x[%height%]/Smavoo_Logo_schwarz.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d134a58b824d71c27526e9f",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d134a58b824d71c27526e9f/1024x500/Smavoo_Logo_schwarz.png"
+            }
+          },
+          {
+            "_id": "5d18eb017ca2f2fc17fd6f9b",
+            "logo": {
+              "_id": "5d19b4b175f267300274c498",
+              "name": "Hub_Rhea_Final_01.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d19b4b175f267300274c498/[%width%]x[%height%]/Hub_Rhea_Final_01.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d19b4b175f267300274c498",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d19b4b175f267300274c498/1024x500/Hub_Rhea_Final_01.jpg"
+            }
+          },
+          {
+            "_id": "5d1b36f116c7b9806b5359ee",
+            "logo": {
+              "_id": "5d1b377a16c7b9806b5359f8",
+              "name": "OPITZ_CONSULTING_1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1b377a16c7b9806b5359f8/[%width%]x[%height%]/OPITZ_CONSULTING_1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b377a16c7b9806b5359f8",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b377a16c7b9806b5359f8/1024x500/OPITZ_CONSULTING_1.png"
+            }
+          },
+          {
+            "_id": "5d1b370c0ca8a08a6ba5d568",
+            "logo": {
+              "_id": "5d1b37470ca8a08a6ba5d56d",
+              "name": "5.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1b37470ca8a08a6ba5d56d/[%width%]x[%height%]/5.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b37470ca8a08a6ba5d56d",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b37470ca8a08a6ba5d56d/1024x500/5.png"
+            }
+          },
+          {
+            "_id": "5d1b7ba9d468e7615f7bb25f",
+            "logo": {
+              "_id": "5d1c44e398c2f9b629c0a773",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1c44e398c2f9b629c0a773/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c44e398c2f9b629c0a773",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c44e398c2f9b629c0a773/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d1da01c6abf93a47db7cdd8",
+            "logo": {
+              "_id": "5d1da0368fd59359019c15ac",
+              "name": "250319_Keleya_Logo_White_back_300dpi.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1da0368fd59359019c15ac/[%width%]x[%height%]/250319_Keleya_Logo_White_back_300dpi.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1da0368fd59359019c15ac",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1da0368fd59359019c15ac/1024x500/250319_Keleya_Logo_White_back_300dpi.jpg"
+            }
+          },
+          {
+            "_id": "5d1dae5a98c2f9b629c0cb13",
+            "logo": {
+              "_id": "5d1daf676064a3ac29cf073a",
+              "name": "0.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1daf676064a3ac29cf073a/[%width%]x[%height%]/0.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1daf676064a3ac29cf073a",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1daf676064a3ac29cf073a/1024x500/0.jpg"
+            }
+          }
+        ],
+        "image": {
+          "_id": "5d429e1b3dc68bd045a8bc67",
+          "name": "startup.jpg",
+          "template": "https://defqg3hhd82zq.cloudfront.net/5d429e1b3dc68bd045a8bc67/[%width%]x[%height%]/startup.jpg",
+          "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d429e1b3dc68bd045a8bc67",
+          "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d429e1b3dc68bd045a8bc67/1024x500/startup.jpg"
+        },
+        "name": "Work for a start up",
+        "type": "default",
+        "hasRequested": false,
+        "description": "Being a budding entrepreneur with a brand-new startup is an exciting experience, especially if you are in Germany. The country has one of the most vibrating startup boosters in Europe, with a reputation known for fostering innovation and talent all across the continent. Here you may find some of the major German Startup Ecosystem players everyone should know."
+      }
+    },
+    {
+      "type": "big-image",
+      "tag": {
+        "_id": "5d2dc5847e5492d63cb895db",
+        "companies": [
+          {
+            "_id": "5c459c1e887d4051149b8d68",
+            "logo": {
+              "_id": "5c459ce64ea57747144288c8",
+              "name": "pf1v4mbbmgay68t1atow.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c459ce64ea57747144288c8/[%width%]x[%height%]/pf1v4mbbmgay68t1atow.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c459ce64ea57747144288c8",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c459ce64ea57747144288c8/1024x500/pf1v4mbbmgay68t1atow.png"
+            }
+          },
+          {
+            "_id": "5c45d9ad1219c5225bdb8978",
+            "logo": {
+              "_id": "5c45da2258a4cc185bc39dc8",
+              "name": "0.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c45da2258a4cc185bc39dc8/[%width%]x[%height%]/0.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c45da2258a4cc185bc39dc8",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c45da2258a4cc185bc39dc8/1024x500/0.jpg"
+            }
+          },
+          {
+            "_id": "5c4f11d9021393026299899b",
+            "logo": {
+              "_id": "5c4f11ee021393026299899e",
+              "name": "pen.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4f11ee021393026299899e/[%width%]x[%height%]/pen.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f11ee021393026299899e",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f11ee021393026299899e/1024x500/pen.png"
+            }
+          },
+          {
+            "_id": "5c501aa169c391db1b133cc0",
+            "logo": {
+              "_id": "5c501adf9be98fe51bb0f91d",
+              "name": "think.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c501adf9be98fe51bb0f91d/[%width%]x[%height%]/think.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c501adf9be98fe51bb0f91d",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c501adf9be98fe51bb0f91d/1024x500/think.jpg"
+            }
+          },
+          {
+            "_id": "5c501cf669c391db1b133cdc",
+            "logo": {
+              "_id": "5c501d689be98fe51bb0f943",
+              "name": "21743300_356920158053888_6968624224856020285_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c501d689be98fe51bb0f943/[%width%]x[%height%]/21743300_356920158053888_6968624224856020285_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c501d689be98fe51bb0f943",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c501d689be98fe51bb0f943/1024x500/21743300_356920158053888_6968624224856020285_n.png"
+            }
+          },
+          {
+            "_id": "5c51760e32291caf2bdfe984",
+            "logo": {
+              "_id": "5c51763f32291caf2bdfe987",
+              "name": "afin1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51763f32291caf2bdfe987/[%width%]x[%height%]/afin1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51763f32291caf2bdfe987",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51763f32291caf2bdfe987/1024x500/afin1.png"
+            }
+          },
+          {
+            "_id": "5c5176ac0c9c05a32b1177c2",
+            "logo": {
+              "_id": "5c5176be32291caf2bdfe98d",
+              "name": "com.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5176be32291caf2bdfe98d/[%width%]x[%height%]/com.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5176be32291caf2bdfe98d",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5176be32291caf2bdfe98d/1024x500/com.png"
+            }
+          },
+          {
+            "_id": "5c517b3d32291caf2bdfe9a1",
+            "logo": {
+              "_id": "5c517b6d0c9c05a32b1177d4",
+              "name": "com1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c517b6d0c9c05a32b1177d4/[%width%]x[%height%]/com1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c517b6d0c9c05a32b1177d4",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c517b6d0c9c05a32b1177d4/1024x500/com1.png"
+            }
+          },
+          {
+            "_id": "5c52af207186183b53e3d421",
+            "logo": {
+              "_id": "5c52af637186183b53e3d424",
+              "name": "take.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424/[%width%]x[%height%]/take.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424/1024x500/take.png"
+            }
+          },
+          {
+            "_id": "5d09f6bdda83d17e25c09c69",
+            "logo": {
+              "_id": "5d0a29fc6e72c65461d84103",
+              "name": "unu1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0a29fc6e72c65461d84103/[%width%]x[%height%]/unu1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a29fc6e72c65461d84103",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a29fc6e72c65461d84103/1024x500/unu1.png"
+            }
+          },
+          {
+            "_id": "5d0a20d2b4f839114a46d4dc",
+            "logo": {
+              "_id": "5d0a267c6e72c65461d840cd",
+              "name": "flixbus1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0a267c6e72c65461d840cd/[%width%]x[%height%]/flixbus1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a267c6e72c65461d840cd",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a267c6e72c65461d840cd/1024x500/flixbus1.png"
+            }
+          }
+        ],
+        "image": {
+          "_id": "5d417c061dd005aa4e66055e",
+          "name": "soontobeunicorn.jpg",
+          "template": "https://defqg3hhd82zq.cloudfront.net/5d417c061dd005aa4e66055e/[%width%]x[%height%]/soontobeunicorn.jpg",
+          "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d417c061dd005aa4e66055e",
+          "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d417c061dd005aa4e66055e/1024x500/soontobeunicorn.jpg"
+        },
+        "name": "Soon to be unicorn",
+        "type": "default",
+        "hasRequested": false,
+        "description": "Know the feeling of something great about to happen? Well, these start-up’s don’t only know but are living it. Here’s the list of venture-backed companies that have crossed or are soon crossing the $1 billion valuation threshold."
+      }
+    },
+    {
+      "type": "browse",
+      "label": "Browse by industries",
+      "typeKey": "industries",
+      "totalCompanies": 405,
+      "hasMore": true,
+      "data": [
+        {
+          "_id": "5a0e2ef400d79cd75dc83bcd",
+          "name": "FinTech",
+          "companiesCount": 26,
+          "hasRequested": false,
+          "image": {
+            "_id": "5d19d08de434cc69566c0b95",
+            "name": "1.png",
+            "template": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95/[%width%]x[%height%]/1.png",
+            "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95",
+            "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95/1024x500/1.png"
+          }
+        },
+        {
+          "_id": "5a0e2ef700d79cd75dc83bd8",
+          "name": "Consultancy",
+          "companiesCount": 78,
+          "hasRequested": false,
+          "image": {
+            "_id": "5cc2ac7d7cbd941b02062493",
+            "name": "11855715_590700891070045_6046022057962458583_n.png",
+            "template": "https://defqg3hhd82zq.cloudfront.net/5cc2ac7d7cbd941b02062493/[%width%]x[%height%]/11855715_590700891070045_6046022057962458583_n.png",
+            "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5cc2ac7d7cbd941b02062493",
+            "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5cc2ac7d7cbd941b02062493/1024x500/11855715_590700891070045_6046022057962458583_n.png"
+          }
+        },
+        {
+          "_id": "5c0e6718b0285d5d3dd9a922",
+          "name": "Banking",
+          "companiesCount": 7,
+          "hasRequested": false,
+          "image": {
+            "_id": "5c6eaa07ce5c25d579d3f63b",
+            "name": "48412319_995595637307380_2776443409060069376_o.jpg",
+            "template": "https://defqg3hhd82zq.cloudfront.net/5c6eaa07ce5c25d579d3f63b/[%width%]x[%height%]/48412319_995595637307380_2776443409060069376_o.jpg",
+            "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c6eaa07ce5c25d579d3f63b",
+            "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c6eaa07ce5c25d579d3f63b/1024x500/48412319_995595637307380_2776443409060069376_o.jpg"
+          }
+        },
+        {
+          "_id": "5c0e671db0285d5d3dd9a923",
+          "name": "Investing",
+          "companiesCount": 13,
+          "hasRequested": false,
+          "image": {
+            "_id": "5d19d08de434cc69566c0b95",
+            "name": "1.png",
+            "template": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95/[%width%]x[%height%]/1.png",
+            "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95",
+            "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95/1024x500/1.png"
+          }
+        },
+        {
+          "_id": "5c0e6723b0285d5d3dd9a924",
+          "name": "Insurance",
+          "companiesCount": 6,
+          "hasRequested": false,
+          "image": {
+            "_id": "5c515d0232291caf2bdfe6ca",
+            "name": "swi1.png",
+            "template": "https://defqg3hhd82zq.cloudfront.net/5c515d0232291caf2bdfe6ca/[%width%]x[%height%]/swi1.png",
+            "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c515d0232291caf2bdfe6ca",
+            "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c515d0232291caf2bdfe6ca/1024x500/swi1.png"
+          }
+        },
+        {
+          "_id": "59942ccf509a9c4cda42ee50",
+          "name": "Consumer, Retail, Fashion",
+          "companiesCount": 43,
+          "hasRequested": false,
+          "image": {
+            "_id": "5c52af637186183b53e3d424",
+            "name": "take.png",
+            "template": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424/[%width%]x[%height%]/take.png",
+            "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424",
+            "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424/1024x500/take.png"
+          }
+        },
+        {
+          "_id": "59942ccf509a9c4cda42ee51",
+          "name": "Construction and Real Estate",
+          "companiesCount": 17,
+          "hasRequested": false,
+          "image": {
+            "_id": "5db2a1e218a1720012cfafdf",
+            "name": "IC_FB_profile_1_.png",
+            "template": "https://defqg3hhd82zq.cloudfront.net/5db2a1e218a1720012cfafdf/[%width%]x[%height%]/IC_FB_profile_1_.png",
+            "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5db2a1e218a1720012cfafdf",
+            "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5db2a1e218a1720012cfafdf/1024x500/IC_FB_profile_1_.png"
+          }
+        }
+      ]
+    },
+    {
+      "type": "big-image",
+      "tag": {
+        "_id": "5d2f12b87e5492d63cb8981e",
+        "companies": [
+          {
+            "_id": "5bf66b34c06cc13f401056ab",
+            "logo": {
+              "_id": "5bf7f950ffee6974542b5adf",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5bf7f950ffee6974542b5adf/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5bf7f950ffee6974542b5adf",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5bf7f950ffee6974542b5adf/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c45ab7c4e8f33c32684a0e3",
+            "logo": {
+              "_id": "5c45abdf00064db92683bdc5",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c45abdf00064db92683bdc5/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c45abdf00064db92683bdc5",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c45abdf00064db92683bdc5/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c45d86c58a4cc185bc39dc2",
+            "logo": {
+              "_id": "5c45d8bb1219c5225bdb875b",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c45d8bb1219c5225bdb875b/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c45d8bb1219c5225bdb875b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c45d8bb1219c5225bdb875b/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c45d9ad1219c5225bdb8978",
+            "logo": {
+              "_id": "5c45da2258a4cc185bc39dc8",
+              "name": "0.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c45da2258a4cc185bc39dc8/[%width%]x[%height%]/0.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c45da2258a4cc185bc39dc8",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c45da2258a4cc185bc39dc8/1024x500/0.jpg"
+            }
+          },
+          {
+            "_id": "5c49e385c5b7c7df074b2ec9",
+            "logo": {
+              "_id": "5cb04c05af5884580c041d26",
+              "name": "logoo.PNG",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5cb04c05af5884580c041d26/[%width%]x[%height%]/logoo.PNG",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5cb04c05af5884580c041d26",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5cb04c05af5884580c041d26/1024x500/logoo.PNG"
+            }
+          },
+          {
+            "_id": "5c4ec8030213930262998836",
+            "logo": {
+              "_id": "5c4ecf65021393026299884b",
+              "name": "auto1.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4ecf65021393026299884b/[%width%]x[%height%]/auto1.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ecf65021393026299884b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ecf65021393026299884b/1024x500/auto1.jpg"
+            }
+          },
+          {
+            "_id": "5c4ed6bd021393026299885d",
+            "logo": {
+              "_id": "5c4ed75b0213930262998860",
+              "name": "29511447_1750105761717157_6610983786551445523_n.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4ed75b0213930262998860/[%width%]x[%height%]/29511447_1750105761717157_6610983786551445523_n.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ed75b0213930262998860",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ed75b0213930262998860/1024x500/29511447_1750105761717157_6610983786551445523_n.jpg"
+            }
+          },
+          {
+            "_id": "5c4ee71a02139302629988e8",
+            "logo": {
+              "_id": "5c4ee78402139302629988eb",
+              "name": "bosch.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4ee78402139302629988eb/[%width%]x[%height%]/bosch.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ee78402139302629988eb",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ee78402139302629988eb/1024x500/bosch.png"
+            }
+          },
+          {
+            "_id": "5c4ef811c8dc590c624664a6",
+            "logo": {
+              "_id": "5c4ef870c8dc590c624664a9",
+              "name": "edeka.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4ef870c8dc590c624664a9/[%width%]x[%height%]/edeka.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ef870c8dc590c624664a9",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ef870c8dc590c624664a9/1024x500/edeka.png"
+            }
+          },
+          {
+            "_id": "5c50265269c391db1b133d07",
+            "logo": {
+              "_id": "5c5026929be98fe51bb0f9b0",
+              "name": "tesla.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5026929be98fe51bb0f9b0/[%width%]x[%height%]/tesla.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5026929be98fe51bb0f9b0",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5026929be98fe51bb0f9b0/1024x500/tesla.png"
+            }
+          },
+          {
+            "_id": "5c50370011397e554486906c",
+            "logo": {
+              "_id": "5c50375211397e554486906f",
+              "name": "18556996_1393182704103525_2525601564048345785_n.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c50375211397e554486906f/[%width%]x[%height%]/18556996_1393182704103525_2525601564048345785_n.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c50375211397e554486906f",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c50375211397e554486906f/1024x500/18556996_1393182704103525_2525601564048345785_n.jpg"
+            }
+          },
+          {
+            "_id": "5c5042575d81fc5f4425a423",
+            "logo": {
+              "_id": "5c5042da5d81fc5f4425a42c",
+              "name": "49432731_1186296278186755_8356064023480893440_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5042da5d81fc5f4425a42c/[%width%]x[%height%]/49432731_1186296278186755_8356064023480893440_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5042da5d81fc5f4425a42c",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5042da5d81fc5f4425a42c/1024x500/49432731_1186296278186755_8356064023480893440_n.png"
+            }
+          },
+          {
+            "_id": "5c5045c05d81fc5f4425a474",
+            "logo": {
+              "_id": "5c5046005d81fc5f4425a484",
+              "name": "12931058_1527913330846672_6790391538536795700_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5046005d81fc5f4425a484/[%width%]x[%height%]/12931058_1527913330846672_6790391538536795700_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5046005d81fc5f4425a484",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5046005d81fc5f4425a484/1024x500/12931058_1527913330846672_6790391538536795700_n.png"
+            }
+          },
+          {
+            "_id": "5c506915388cba8e10c6f629",
+            "logo": {
+              "_id": "5c5069485e7bc29810901d3f",
+              "name": "bfft.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5069485e7bc29810901d3f/[%width%]x[%height%]/bfft.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5069485e7bc29810901d3f",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5069485e7bc29810901d3f/1024x500/bfft.png"
+            }
+          },
+          {
+            "_id": "5c515cc032291caf2bdfe6c6",
+            "logo": {
+              "_id": "5c515d0232291caf2bdfe6ca",
+              "name": "swi1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c515d0232291caf2bdfe6ca/[%width%]x[%height%]/swi1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c515d0232291caf2bdfe6ca",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c515d0232291caf2bdfe6ca/1024x500/swi1.png"
+            }
+          },
+          {
+            "_id": "5c515f430c9c05a32b11759c",
+            "logo": {
+              "_id": "5c515fb20c9c05a32b1175a0",
+              "name": "arwa.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c515fb20c9c05a32b1175a0/[%width%]x[%height%]/arwa.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c515fb20c9c05a32b1175a0",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c515fb20c9c05a32b1175a0/1024x500/arwa.png"
+            }
+          },
+          {
+            "_id": "5c51760e32291caf2bdfe984",
+            "logo": {
+              "_id": "5c51763f32291caf2bdfe987",
+              "name": "afin1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51763f32291caf2bdfe987/[%width%]x[%height%]/afin1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51763f32291caf2bdfe987",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51763f32291caf2bdfe987/1024x500/afin1.png"
+            }
+          },
+          {
+            "_id": "5c519a703cca7e0840a8a04d",
+            "logo": {
+              "_id": "5c519cc27a32e0124074490c",
+              "name": "1200px_General_Electric_logo.svg.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c519cc27a32e0124074490c/[%width%]x[%height%]/1200px_General_Electric_logo.svg.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c519cc27a32e0124074490c",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c519cc27a32e0124074490c/1024x500/1200px_General_Electric_logo.svg.png"
+            }
+          },
+          {
+            "_id": "5c519df47a32e01240744910",
+            "logo": {
+              "_id": "5c519e6c7a32e01240744923",
+              "name": "hf1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c519e6c7a32e01240744923/[%width%]x[%height%]/hf1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c519e6c7a32e01240744923",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c519e6c7a32e01240744923/1024x500/hf1.png"
+            }
+          },
+          {
+            "_id": "5c51a3527a32e01240744957",
+            "logo": {
+              "_id": "5c51a3607a32e0124074495b",
+              "name": "sop.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51a3607a32e0124074495b/[%width%]x[%height%]/sop.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51a3607a32e0124074495b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51a3607a32e0124074495b/1024x500/sop.jpg"
+            }
+          },
+          {
+            "_id": "5c51a8687a32e012407449dc",
+            "logo": {
+              "_id": "5c51a8767a32e012407449df",
+              "name": "telc.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51a8767a32e012407449df/[%width%]x[%height%]/telc.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51a8767a32e012407449df",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51a8767a32e012407449df/1024x500/telc.jpg"
+            }
+          },
+          {
+            "_id": "5c51ab203cca7e0840a8a0b3",
+            "logo": {
+              "_id": "5c51ab763cca7e0840a8a0b7",
+              "name": "38120613_10156668189089662_3703595302008127488_n.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51ab763cca7e0840a8a0b7/[%width%]x[%height%]/38120613_10156668189089662_3703595302008127488_n.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51ab763cca7e0840a8a0b7",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51ab763cca7e0840a8a0b7/1024x500/38120613_10156668189089662_3703595302008127488_n.jpg"
+            }
+          },
+          {
+            "_id": "5c51b5653cca7e0840a8a0da",
+            "logo": {
+              "_id": "5c51b5cb3cca7e0840a8a0e1",
+              "name": "street.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51b5cb3cca7e0840a8a0e1/[%width%]x[%height%]/street.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51b5cb3cca7e0840a8a0e1",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51b5cb3cca7e0840a8a0e1/1024x500/street.jpg"
+            }
+          },
+          {
+            "_id": "5c51b8557a32e01240744a01",
+            "logo": {
+              "_id": "5c51b8b43cca7e0840a8a0ea",
+              "name": "thomas.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51b8b43cca7e0840a8a0ea/[%width%]x[%height%]/thomas.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51b8b43cca7e0840a8a0ea",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51b8b43cca7e0840a8a0ea/1024x500/thomas.jpg"
+            }
+          },
+          {
+            "_id": "5c51bd42c069f06f7bb0e975",
+            "logo": {
+              "_id": "5c51bd522e4f9d657be3e8bf",
+              "name": "301408_362038203875277_1916828428_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51bd522e4f9d657be3e8bf/[%width%]x[%height%]/301408_362038203875277_1916828428_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51bd522e4f9d657be3e8bf",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51bd522e4f9d657be3e8bf/1024x500/301408_362038203875277_1916828428_n.png"
+            }
+          },
+          {
+            "_id": "5c529f611e1ef8c7157933bd",
+            "logo": {
+              "_id": "5c529f8ffeb508bd154b7e84",
+              "name": "bhs.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c529f8ffeb508bd154b7e84/[%width%]x[%height%]/bhs.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c529f8ffeb508bd154b7e84",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c529f8ffeb508bd154b7e84/1024x500/bhs.jpg"
+            }
+          },
+          {
+            "_id": "5c52a00c1e1ef8c7157933c1",
+            "logo": {
+              "_id": "5c52a08a1e1ef8c7157933c9",
+              "name": "logo_big_retina.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c52a08a1e1ef8c7157933c9/[%width%]x[%height%]/logo_big_retina.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52a08a1e1ef8c7157933c9",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52a08a1e1ef8c7157933c9/1024x500/logo_big_retina.png"
+            }
+          },
+          {
+            "_id": "5c52af207186183b53e3d421",
+            "logo": {
+              "_id": "5c52af637186183b53e3d424",
+              "name": "take.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424/[%width%]x[%height%]/take.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424/1024x500/take.png"
+            }
+          },
+          {
+            "_id": "5c545972c61d2a2654ab773e",
+            "logo": {
+              "_id": "5c54599560f9371c545115a4",
+              "name": "vais.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c54599560f9371c545115a4/[%width%]x[%height%]/vais.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c54599560f9371c545115a4",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c54599560f9371c545115a4/1024x500/vais.jpg"
+            }
+          },
+          {
+            "_id": "5c5abc5578acc20f6b108a7d",
+            "logo": {
+              "_id": "5c5abc66b93c6b196b40d0a7",
+              "name": "28279190_2002046460051025_2533738649065382347_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5abc66b93c6b196b40d0a7/[%width%]x[%height%]/28279190_2002046460051025_2533738649065382347_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5abc66b93c6b196b40d0a7",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5abc66b93c6b196b40d0a7/1024x500/28279190_2002046460051025_2533738649065382347_n.png"
+            }
+          },
+          {
+            "_id": "5cda922376c4dc915534213f",
+            "logo": {
+              "_id": "5cda92f09214fb9b555c2c06",
+              "name": "0.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5cda92f09214fb9b555c2c06/[%width%]x[%height%]/0.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5cda92f09214fb9b555c2c06",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5cda92f09214fb9b555c2c06/1024x500/0.jpg"
+            }
+          },
+          {
+            "_id": "5d076c7ec4effe876e154df6",
+            "logo": {
+              "_id": "5d076d393ce19d916e88da1f",
+              "name": "JPG_800width_PMI_global_V_Blue_HIRES.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d076d393ce19d916e88da1f/[%width%]x[%height%]/JPG_800width_PMI_global_V_Blue_HIRES.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d076d393ce19d916e88da1f",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d076d393ce19d916e88da1f/1024x500/JPG_800width_PMI_global_V_Blue_HIRES.jpg"
+            }
+          },
+          {
+            "_id": "5d0a20d2b4f839114a46d4dc",
+            "logo": {
+              "_id": "5d0a267c6e72c65461d840cd",
+              "name": "flixbus1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0a267c6e72c65461d840cd/[%width%]x[%height%]/flixbus1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a267c6e72c65461d840cd",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a267c6e72c65461d840cd/1024x500/flixbus1.png"
+            }
+          },
+          {
+            "_id": "5d10ea8b59bf33eb3642b0f9",
+            "logo": {
+              "_id": "5d134356ca1c99054833df5d",
+              "name": "ACC_GT_Dimensional_Purple_RGB_pos.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d134356ca1c99054833df5d/[%width%]x[%height%]/ACC_GT_Dimensional_Purple_RGB_pos.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d134356ca1c99054833df5d",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d134356ca1c99054833df5d/1024x500/ACC_GT_Dimensional_Purple_RGB_pos.png"
+            }
+          },
+          {
+            "_id": "5d14d627f867fdfe743c14e2",
+            "logo": {
+              "_id": "5d14d64e3e549808756ddd2c",
+              "name": "5.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d14d64e3e549808756ddd2c/[%width%]x[%height%]/5.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d14d64e3e549808756ddd2c",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d14d64e3e549808756ddd2c/1024x500/5.png"
+            }
+          },
+          {
+            "_id": "5d15328fc93eacab2a1ee3e8",
+            "logo": {
+              "_id": "5d15b54edc572a2146caafc0",
+              "name": "ZALANDO_1.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d15b54edc572a2146caafc0/[%width%]x[%height%]/ZALANDO_1.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d15b54edc572a2146caafc0",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d15b54edc572a2146caafc0/1024x500/ZALANDO_1.jpeg"
+            }
+          },
+          {
+            "_id": "5d166bf71e955e7a6758c692",
+            "logo": {
+              "_id": "5d17715431336d3c087baa80",
+              "name": "44490355_1951488535151575_7655145843472728064_n.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d17715431336d3c087baa80/[%width%]x[%height%]/44490355_1951488535151575_7655145843472728064_n.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d17715431336d3c087baa80",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d17715431336d3c087baa80/1024x500/44490355_1951488535151575_7655145843472728064_n.jpg"
+            }
+          },
+          {
+            "_id": "5d19d0529dbd6c5f56e1fa0c",
+            "logo": {
+              "_id": "5d19d08de434cc69566c0b95",
+              "name": "1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95/[%width%]x[%height%]/1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95/1024x500/1.png"
+            }
+          },
+          {
+            "_id": "5d1c82fc98c2f9b629c0c0ee",
+            "logo": {
+              "_id": "5d1c83346064a3ac29cef77a",
+              "name": "0.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1c83346064a3ac29cef77a/[%width%]x[%height%]/0.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c83346064a3ac29cef77a",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c83346064a3ac29cef77a/1024x500/0.jpg"
+            }
+          },
+          {
+            "_id": "5d8b2c318aac3a128bc0bc54",
+            "logo": {
+              "_id": "5d8b2f255f0ade0012c85485",
+              "name": "Screenshot_2019_09_25_at_12.10.48.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d8b2f255f0ade0012c85485/[%width%]x[%height%]/Screenshot_2019_09_25_at_12.10.48.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d8b2f255f0ade0012c85485",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d8b2f255f0ade0012c85485/1024x500/Screenshot_2019_09_25_at_12.10.48.png"
+            }
+          }
+        ],
+        "image": {
+          "_id": "5d417dab1dd005aa4e660561",
+          "name": "big_confident.jpg",
+          "template": "https://defqg3hhd82zq.cloudfront.net/5d417dab1dd005aa4e660561/[%width%]x[%height%]/big_confident.jpg",
+          "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d417dab1dd005aa4e660561",
+          "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d417dab1dd005aa4e660561/1024x500/big_confident.jpg"
+        },
+        "name": "Big & Confident",
+        "type": "default",
+        "hasRequested": false,
+        "description": "These are the true powerhouses in their industry. They know what they are doing and have the numbers to prove it. If you are seeking to start your corporate success story, look no further. "
+      }
+    },
+    {
+      "type": "big-image",
+      "tag": {
+        "_id": "5d2effaa8956d6cc3c2757f7",
+        "companies": [
+          {
+            "_id": "5bbcb9886a364d4910396496",
+            "logo": {
+              "_id": "5bbdcc3da93e5a08102fbcaa",
+              "name": "vLRxfqeS_400x400.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5bbdcc3da93e5a08102fbcaa/[%width%]x[%height%]/vLRxfqeS_400x400.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5bbdcc3da93e5a08102fbcaa",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5bbdcc3da93e5a08102fbcaa/1024x500/vLRxfqeS_400x400.jpg"
+            }
+          },
+          {
+            "_id": "5bcee724572af0111080f65c",
+            "logo": {
+              "_id": "5bcf1c001244034610fbbd16",
+              "name": "_thumb_10894_bg.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5bcf1c001244034610fbbd16/[%width%]x[%height%]/_thumb_10894_bg.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5bcf1c001244034610fbbd16",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5bcf1c001244034610fbbd16/1024x500/_thumb_10894_bg.png"
+            }
+          },
+          {
+            "_id": "5bf66b34c06cc13f401056ab",
+            "logo": {
+              "_id": "5bf7f950ffee6974542b5adf",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5bf7f950ffee6974542b5adf/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5bf7f950ffee6974542b5adf",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5bf7f950ffee6974542b5adf/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c45aa8400064db92683bdbe",
+            "logo": {
+              "_id": "5c45aafa00064db92683bdc2",
+              "name": "d15wjekhwwdrk8547z9r.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c45aafa00064db92683bdc2/[%width%]x[%height%]/d15wjekhwwdrk8547z9r.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c45aafa00064db92683bdc2",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c45aafa00064db92683bdc2/1024x500/d15wjekhwwdrk8547z9r.png"
+            }
+          },
+          {
+            "_id": "5c4ac7a67f160f336e7e949d",
+            "logo": {
+              "_id": "5c4ac7cb7f160f336e7e94a1",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4ac7cb7f160f336e7e94a1/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ac7cb7f160f336e7e94a1",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ac7cb7f160f336e7e94a1/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c4ec7f40213930262998833",
+            "logo": {
+              "_id": "5c4ec836c8dc590c624663f6",
+              "name": "39821894_663613257327743_7514363038917459968_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4ec836c8dc590c624663f6/[%width%]x[%height%]/39821894_663613257327743_7514363038917459968_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ec836c8dc590c624663f6",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ec836c8dc590c624663f6/1024x500/39821894_663613257327743_7514363038917459968_n.png"
+            }
+          },
+          {
+            "_id": "5c4efa3c0213930262998916",
+            "logo": {
+              "_id": "5c4efa7b0213930262998919",
+              "name": "16508516_1521500671211052_8025408150899769337_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4efa7b0213930262998919/[%width%]x[%height%]/16508516_1521500671211052_8025408150899769337_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4efa7b0213930262998919",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4efa7b0213930262998919/1024x500/16508516_1521500671211052_8025408150899769337_n.png"
+            }
+          },
+          {
+            "_id": "5c4f11d9021393026299899b",
+            "logo": {
+              "_id": "5c4f11ee021393026299899e",
+              "name": "pen.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4f11ee021393026299899e/[%width%]x[%height%]/pen.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f11ee021393026299899e",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f11ee021393026299899e/1024x500/pen.png"
+            }
+          },
+          {
+            "_id": "5c50079c69c391db1b133bf7",
+            "logo": {
+              "_id": "5c50085a9be98fe51bb0f868",
+              "name": "crypto.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c50085a9be98fe51bb0f868/[%width%]x[%height%]/crypto.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c50085a9be98fe51bb0f868",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c50085a9be98fe51bb0f868/1024x500/crypto.png"
+            }
+          },
+          {
+            "_id": "5c502e4a69c391db1b133d25",
+            "logo": {
+              "_id": "5c502eac69c391db1b133d31",
+              "name": "alt.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c502eac69c391db1b133d31/[%width%]x[%height%]/alt.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c502eac69c391db1b133d31",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c502eac69c391db1b133d31/1024x500/alt.png"
+            }
+          },
+          {
+            "_id": "5c50542711397e554486935f",
+            "logo": {
+              "_id": "5c5054405d81fc5f4425ab52",
+              "name": "fb1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5054405d81fc5f4425ab52/[%width%]x[%height%]/fb1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5054405d81fc5f4425ab52",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5054405d81fc5f4425ab52/1024x500/fb1.png"
+            }
+          },
+          {
+            "_id": "5c51760e32291caf2bdfe984",
+            "logo": {
+              "_id": "5c51763f32291caf2bdfe987",
+              "name": "afin1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51763f32291caf2bdfe987/[%width%]x[%height%]/afin1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51763f32291caf2bdfe987",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51763f32291caf2bdfe987/1024x500/afin1.png"
+            }
+          },
+          {
+            "_id": "5c51788b32291caf2bdfe994",
+            "logo": {
+              "_id": "5c5178cf0c9c05a32b1177cb",
+              "name": "ifu1.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5178cf0c9c05a32b1177cb/[%width%]x[%height%]/ifu1.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5178cf0c9c05a32b1177cb",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5178cf0c9c05a32b1177cb/1024x500/ifu1.jpg"
+            }
+          },
+          {
+            "_id": "5c5192d57692a30f2fa88e0e",
+            "logo": {
+              "_id": "5c5193467239c0192fed3341",
+              "name": "pla1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5193467239c0192fed3341/[%width%]x[%height%]/pla1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5193467239c0192fed3341",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5193467239c0192fed3341/1024x500/pla1.png"
+            }
+          },
+          {
+            "_id": "5c51a06f7a32e01240744934",
+            "logo": {
+              "_id": "5c51a0857a32e01240744938",
+              "name": "ava.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51a0857a32e01240744938/[%width%]x[%height%]/ava.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51a0857a32e01240744938",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51a0857a32e01240744938/1024x500/ava.png"
+            }
+          },
+          {
+            "_id": "5c6ea9bdce5c25d579d3f62c",
+            "logo": {
+              "_id": "5c6eaa07ce5c25d579d3f63b",
+              "name": "48412319_995595637307380_2776443409060069376_o.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c6eaa07ce5c25d579d3f63b/[%width%]x[%height%]/48412319_995595637307380_2776443409060069376_o.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c6eaa07ce5c25d579d3f63b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c6eaa07ce5c25d579d3f63b/1024x500/48412319_995595637307380_2776443409060069376_o.jpg"
+            }
+          },
+          {
+            "_id": "5d19d0529dbd6c5f56e1fa0c",
+            "logo": {
+              "_id": "5d19d08de434cc69566c0b95",
+              "name": "1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95/[%width%]x[%height%]/1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95/1024x500/1.png"
+            }
+          },
+          {
+            "_id": "5d1a71b97d4c36190be47abd",
+            "logo": {
+              "_id": "5d1afd12cc92731131836afa",
+              "name": "Elinvar.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1afd12cc92731131836afa/[%width%]x[%height%]/Elinvar.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1afd12cc92731131836afa",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1afd12cc92731131836afa/1024x500/Elinvar.png"
+            }
+          }
+        ],
+        "image": {
+          "_id": "5d417d7dacacf3b44e21c44f",
+          "name": "fintech.jpg",
+          "template": "https://defqg3hhd82zq.cloudfront.net/5d417d7dacacf3b44e21c44f/[%width%]x[%height%]/fintech.jpg",
+          "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d417d7dacacf3b44e21c44f",
+          "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d417d7dacacf3b44e21c44f/1024x500/fintech.jpg"
+        },
+        "name": "Discover Fin-tech ",
+        "type": "default",
+        "hasRequested": false,
+        "description": "The future of finance at it’s finest - here are the companies working their magic on improving the delivery and use of financial services through technological innovation."
+      }
+    },
+    {
+      "type": "big-image",
+      "tag": {
+        "_id": "5d1342cb992313e16f58d4ee",
+        "companies": [
+          {
+            "_id": "5b7d38cf10020fb80768076f",
+            "logo": {
+              "_id": "5e0f3778cf77a60012c67340",
+              "name": "MF_Youtube.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5e0f3778cf77a60012c67340/[%width%]x[%height%]/MF_Youtube.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5e0f3778cf77a60012c67340",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5e0f3778cf77a60012c67340/1024x500/MF_Youtube.png"
+            }
+          },
+          {
+            "_id": "5bd9ec95529334a872e4326e",
+            "logo": {
+              "_id": "5c0e8817f6e0db8c668c75ee",
+              "name": "Logo_Round.PNG",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c0e8817f6e0db8c668c75ee/[%width%]x[%height%]/Logo_Round.PNG",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c0e8817f6e0db8c668c75ee",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c0e8817f6e0db8c668c75ee/1024x500/Logo_Round.PNG"
+            }
+          },
+          {
+            "_id": "5c45d86c58a4cc185bc39dc2",
+            "logo": {
+              "_id": "5c45d8bb1219c5225bdb875b",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c45d8bb1219c5225bdb875b/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c45d8bb1219c5225bdb875b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c45d8bb1219c5225bdb875b/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c484c1180fe8547420fd13a",
+            "logo": {
+              "_id": "5c484c4780fe8547420fd13e",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c484c4780fe8547420fd13e/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c484c4780fe8547420fd13e",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c484c4780fe8547420fd13e/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c4ef811c8dc590c624664a6",
+            "logo": {
+              "_id": "5c4ef870c8dc590c624664a9",
+              "name": "edeka.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4ef870c8dc590c624664a9/[%width%]x[%height%]/edeka.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ef870c8dc590c624664a9",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ef870c8dc590c624664a9/1024x500/edeka.png"
+            }
+          },
+          {
+            "_id": "5c4f17acc8dc590c62466582",
+            "logo": {
+              "_id": "5d07b9b77d69284935611990",
+              "name": "53050715_2074677709283358_3734656578507243520_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d07b9b77d69284935611990/[%width%]x[%height%]/53050715_2074677709283358_3734656578507243520_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d07b9b77d69284935611990",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d07b9b77d69284935611990/1024x500/53050715_2074677709283358_3734656578507243520_n.png"
+            }
+          },
+          {
+            "_id": "5c51586f32291caf2bdfe677",
+            "logo": {
+              "_id": "5c5158a90c9c05a32b117543",
+              "name": "fable.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5158a90c9c05a32b117543/[%width%]x[%height%]/fable.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5158a90c9c05a32b117543",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5158a90c9c05a32b117543/1024x500/fable.png"
+            }
+          },
+          {
+            "_id": "5c5176ac0c9c05a32b1177c2",
+            "logo": {
+              "_id": "5c5176be32291caf2bdfe98d",
+              "name": "com.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5176be32291caf2bdfe98d/[%width%]x[%height%]/com.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5176be32291caf2bdfe98d",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5176be32291caf2bdfe98d/1024x500/com.png"
+            }
+          },
+          {
+            "_id": "5c519df47a32e01240744910",
+            "logo": {
+              "_id": "5c519e6c7a32e01240744923",
+              "name": "hf1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c519e6c7a32e01240744923/[%width%]x[%height%]/hf1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c519e6c7a32e01240744923",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c519e6c7a32e01240744923/1024x500/hf1.png"
+            }
+          },
+          {
+            "_id": "5c51ae053cca7e0840a8a0bf",
+            "logo": {
+              "_id": "5c51ae5a7a32e012407449eb",
+              "name": "nok.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51ae5a7a32e012407449eb/[%width%]x[%height%]/nok.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51ae5a7a32e012407449eb",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51ae5a7a32e012407449eb/1024x500/nok.jpg"
+            }
+          },
+          {
+            "_id": "5c51ae453cca7e0840a8a0c3",
+            "logo": {
+              "_id": "5c51af3b7a32e012407449ed",
+              "name": "46692417_2199259226772283_4718383533024870400_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51af3b7a32e012407449ed/[%width%]x[%height%]/46692417_2199259226772283_4718383533024870400_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51af3b7a32e012407449ed",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51af3b7a32e012407449ed/1024x500/46692417_2199259226772283_4718383533024870400_n.png"
+            }
+          },
+          {
+            "_id": "5c52af207186183b53e3d421",
+            "logo": {
+              "_id": "5c52af637186183b53e3d424",
+              "name": "take.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424/[%width%]x[%height%]/take.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424/1024x500/take.png"
+            }
+          },
+          {
+            "_id": "5c52b1b27186183b53e3d4b6",
+            "logo": {
+              "_id": "5c52b1ea81d9112d533f3ef1",
+              "name": "sono.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c52b1ea81d9112d533f3ef1/[%width%]x[%height%]/sono.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52b1ea81d9112d533f3ef1",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52b1ea81d9112d533f3ef1/1024x500/sono.jpg"
+            }
+          },
+          {
+            "_id": "5c7f7f85df7f1e073ee8a0b7",
+            "logo": {
+              "_id": "5d07868e6f22abb47fe6ae07",
+              "name": "AMONOVA_1.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d07868e6f22abb47fe6ae07/[%width%]x[%height%]/AMONOVA_1.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d07868e6f22abb47fe6ae07",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d07868e6f22abb47fe6ae07/1024x500/AMONOVA_1.jpeg"
+            }
+          },
+          {
+            "_id": "5c9b42aa5c3671b00ba7a868",
+            "logo": {
+              "_id": "5c9b43091b0dc0ba0bce1836",
+              "name": "1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c9b43091b0dc0ba0bce1836/[%width%]x[%height%]/1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c9b43091b0dc0ba0bce1836",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c9b43091b0dc0ba0bce1836/1024x500/1.png"
+            }
+          },
+          {
+            "_id": "5cb4668002d813467dd1e573",
+            "logo": {
+              "_id": "5cb4668899cb345f2a6373f2",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5cb4668899cb345f2a6373f2/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5cb4668899cb345f2a6373f2",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5cb4668899cb345f2a6373f2/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5cda922376c4dc915534213f",
+            "logo": {
+              "_id": "5cda92f09214fb9b555c2c06",
+              "name": "0.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5cda92f09214fb9b555c2c06/[%width%]x[%height%]/0.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5cda92f09214fb9b555c2c06",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5cda92f09214fb9b555c2c06/1024x500/0.jpg"
+            }
+          },
+          {
+            "_id": "5cdd1b34c3d7616b30dc8847",
+            "logo": {
+              "_id": "5cdd1cead6c186d878148da7",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5cdd1cead6c186d878148da7/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5cdd1cead6c186d878148da7",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5cdd1cead6c186d878148da7/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d01f4670b29b27366dc894b",
+            "logo": {
+              "_id": "5d0200de130aaddd718f356f",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0200de130aaddd718f356f/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0200de130aaddd718f356f",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0200de130aaddd718f356f/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d076c7ec4effe876e154df6",
+            "logo": {
+              "_id": "5d076d393ce19d916e88da1f",
+              "name": "JPG_800width_PMI_global_V_Blue_HIRES.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d076d393ce19d916e88da1f/[%width%]x[%height%]/JPG_800width_PMI_global_V_Blue_HIRES.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d076d393ce19d916e88da1f",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d076d393ce19d916e88da1f/1024x500/JPG_800width_PMI_global_V_Blue_HIRES.jpg"
+            }
+          },
+          {
+            "_id": "5d077b2595f0ea17440f7013",
+            "logo": {
+              "_id": "5d077f1a3ce19d916e88e54c",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d077f1a3ce19d916e88e54c/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d077f1a3ce19d916e88e54c",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d077f1a3ce19d916e88e54c/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d09e15eda83d17e25c08d5c",
+            "logo": {
+              "_id": "5d09e514a36a4b5e61fb5e67",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d09e514a36a4b5e61fb5e67/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d09e514a36a4b5e61fb5e67",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d09e514a36a4b5e61fb5e67/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d09f6bdda83d17e25c09c69",
+            "logo": {
+              "_id": "5d0a29fc6e72c65461d84103",
+              "name": "unu1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0a29fc6e72c65461d84103/[%width%]x[%height%]/unu1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a29fc6e72c65461d84103",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a29fc6e72c65461d84103/1024x500/unu1.png"
+            }
+          },
+          {
+            "_id": "5d09f871e13e7088256dce8c",
+            "logo": {
+              "_id": "5d0a184ca36a4b5e61fb644b",
+              "name": "Livelntent_1.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0a184ca36a4b5e61fb644b/[%width%]x[%height%]/Livelntent_1.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a184ca36a4b5e61fb644b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a184ca36a4b5e61fb644b/1024x500/Livelntent_1.jpeg"
+            }
+          },
+          {
+            "_id": "5d09fa98ebdc36074a4c166c",
+            "logo": {
+              "_id": "5d0a1a16a36a4b5e61fb6689",
+              "name": "e.venture_1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0a1a16a36a4b5e61fb6689/[%width%]x[%height%]/e.venture_1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a1a16a36a4b5e61fb6689",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a1a16a36a4b5e61fb6689/1024x500/e.venture_1.png"
+            }
+          },
+          {
+            "_id": "5d0a0e8fda83d17e25c0a44c",
+            "logo": {
+              "_id": "5d0a2212a36a4b5e61fb6898",
+              "name": "DS1.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0a2212a36a4b5e61fb6898/[%width%]x[%height%]/DS1.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a2212a36a4b5e61fb6898",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a2212a36a4b5e61fb6898/1024x500/DS1.jpeg"
+            }
+          },
+          {
+            "_id": "5d0a20d2b4f839114a46d4dc",
+            "logo": {
+              "_id": "5d0a267c6e72c65461d840cd",
+              "name": "flixbus1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0a267c6e72c65461d840cd/[%width%]x[%height%]/flixbus1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a267c6e72c65461d840cd",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a267c6e72c65461d840cd/1024x500/flixbus1.png"
+            }
+          },
+          {
+            "_id": "5d0a23cfda83d17e25c0b05d",
+            "logo": {
+              "_id": "5d0a240aebdc36074a4c21c2",
+              "name": "SIRUP_Logo_wht_q_2.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0a240aebdc36074a4c21c2/[%width%]x[%height%]/SIRUP_Logo_wht_q_2.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a240aebdc36074a4c21c2",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a240aebdc36074a4c21c2/1024x500/SIRUP_Logo_wht_q_2.png"
+            }
+          },
+          {
+            "_id": "5d0a2939ebdc36074a4c22f5",
+            "logo": {
+              "_id": "5d0b39a2e69337b17e444595",
+              "name": "PAYFIT1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b39a2e69337b17e444595/[%width%]x[%height%]/PAYFIT1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b39a2e69337b17e444595",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b39a2e69337b17e444595/1024x500/PAYFIT1.png"
+            }
+          },
+          {
+            "_id": "5d0a2a08b4f839114a46d760",
+            "logo": {
+              "_id": "5d15d5c8dc572a2146cad52b",
+              "name": "ALTER_VIEW1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d15d5c8dc572a2146cad52b/[%width%]x[%height%]/ALTER_VIEW1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d15d5c8dc572a2146cad52b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d15d5c8dc572a2146cad52b/1024x500/ALTER_VIEW1.png"
+            }
+          },
+          {
+            "_id": "5d0a2c01e13e7088256e1746",
+            "logo": {
+              "_id": "5d0b38472f4957a77ebc44ff",
+              "name": "ECAPITAL1.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b38472f4957a77ebc44ff/[%width%]x[%height%]/ECAPITAL1.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b38472f4957a77ebc44ff",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b38472f4957a77ebc44ff/1024x500/ECAPITAL1.jpeg"
+            }
+          },
+          {
+            "_id": "5d0a2d51da83d17e25c0e00a",
+            "logo": {
+              "_id": "5d0b37472f4957a77ebc44f6",
+              "name": "E1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b37472f4957a77ebc44f6/[%width%]x[%height%]/E1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b37472f4957a77ebc44f6",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b37472f4957a77ebc44f6/1024x500/E1.png"
+            }
+          },
+          {
+            "_id": "5d0a4375ebdc36074a4c2e7d",
+            "logo": {
+              "_id": "5d0b4b51cdc0afe620b2ca18",
+              "name": "INFLIGHTVR_LOGO_COLOR_01_1_.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b4b51cdc0afe620b2ca18/[%width%]x[%height%]/INFLIGHTVR_LOGO_COLOR_01_1_.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b4b51cdc0afe620b2ca18",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b4b51cdc0afe620b2ca18/1024x500/INFLIGHTVR_LOGO_COLOR_01_1_.png"
+            }
+          },
+          {
+            "_id": "5d0a4741b4f839114a46f25b",
+            "logo": {
+              "_id": "5d0b3577e69337b17e444552",
+              "name": "COGS1.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b3577e69337b17e444552/[%width%]x[%height%]/COGS1.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b3577e69337b17e444552",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b3577e69337b17e444552/1024x500/COGS1.jpeg"
+            }
+          },
+          {
+            "_id": "5d0a4ebbda83d17e25c0e930",
+            "logo": {
+              "_id": "5d0b33f22f4957a77ebc44e0",
+              "name": "agorize1.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b33f22f4957a77ebc44e0/[%width%]x[%height%]/agorize1.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b33f22f4957a77ebc44e0",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b33f22f4957a77ebc44e0/1024x500/agorize1.jpeg"
+            }
+          },
+          {
+            "_id": "5d0b3bbbac48059f40e0c910",
+            "logo": {
+              "_id": "5d0b3cd0ec1fbc954064ee92",
+              "name": "fan.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b3cd0ec1fbc954064ee92/[%width%]x[%height%]/fan.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b3cd0ec1fbc954064ee92",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b3cd0ec1fbc954064ee92/1024x500/fan.png"
+            }
+          },
+          {
+            "_id": "5d0b4eae2f4957a77ebc4710",
+            "logo": {
+              "_id": "5d0b4ef62f4957a77ebc4717",
+              "name": "3.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b4ef62f4957a77ebc4717/[%width%]x[%height%]/3.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b4ef62f4957a77ebc4717",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b4ef62f4957a77ebc4717/1024x500/3.jpg"
+            }
+          },
+          {
+            "_id": "5d0b5075ac48059f40e0ccdb",
+            "logo": {
+              "_id": "5d0b79cc0ef88e24574b8ca1",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b79cc0ef88e24574b8ca1/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b79cc0ef88e24574b8ca1",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b79cc0ef88e24574b8ca1/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d0b5a5a2f4957a77ebc4755",
+            "logo": {
+              "_id": "5d0b5ac02f4957a77ebc4759",
+              "name": "5.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b5ac02f4957a77ebc4759/[%width%]x[%height%]/5.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b5ac02f4957a77ebc4759",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b5ac02f4957a77ebc4759/1024x500/5.jpg"
+            }
+          },
+          {
+            "_id": "5d0b5edae69337b17e444854",
+            "logo": {
+              "_id": "5d0b5f14e69337b17e44485a",
+              "name": "0.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b5f14e69337b17e44485a/[%width%]x[%height%]/0.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b5f14e69337b17e44485a",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b5f14e69337b17e44485a/1024x500/0.jpg"
+            }
+          },
+          {
+            "_id": "5d0b62a3e69337b17e444895",
+            "logo": {
+              "_id": "5d0b62cde69337b17e4448a2",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b62cde69337b17e4448a2/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b62cde69337b17e4448a2",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b62cde69337b17e4448a2/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d0b67e5e69337b17e4448e2",
+            "logo": {
+              "_id": "5d0b6818e69337b17e4448e7",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b6818e69337b17e4448e7/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b6818e69337b17e4448e7",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b6818e69337b17e4448e7/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d0b69d32f4957a77ebc47f9",
+            "logo": {
+              "_id": "5d0b6a0d2f4957a77ebc47fe",
+              "name": "6.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b6a0d2f4957a77ebc47fe/[%width%]x[%height%]/6.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b6a0d2f4957a77ebc47fe",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b6a0d2f4957a77ebc47fe/1024x500/6.png"
+            }
+          },
+          {
+            "_id": "5d0b6bf72f4957a77ebc4811",
+            "logo": {
+              "_id": "5d0b6c1de69337b17e444906",
+              "name": "6.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b6c1de69337b17e444906/[%width%]x[%height%]/6.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b6c1de69337b17e444906",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b6c1de69337b17e444906/1024x500/6.png"
+            }
+          },
+          {
+            "_id": "5d0b8fba1c6d3a5717e9f1d4",
+            "logo": {
+              "_id": "5d0b929d4af41ed16f04c77a",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0b929d4af41ed16f04c77a/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b929d4af41ed16f04c77a",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b929d4af41ed16f04c77a/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d0bacf267f53a5534a0c6bd",
+            "logo": {
+              "_id": "5d0c783794af09a3721ec97e",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0c783794af09a3721ec97e/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0c783794af09a3721ec97e",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0c783794af09a3721ec97e/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d0c79fe94af09a3721ec991",
+            "logo": {
+              "_id": "5d0c7dd1cf77388f721c741b",
+              "name": "5.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0c7dd1cf77388f721c741b/[%width%]x[%height%]/5.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0c7dd1cf77388f721c741b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0c7dd1cf77388f721c741b/1024x500/5.png"
+            }
+          },
+          {
+            "_id": "5d0e7e225ee2aceb1ab1c99c",
+            "logo": {
+              "_id": "5d11b99994af09a3721ed53b",
+              "name": "omio_1.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d11b99994af09a3721ed53b/[%width%]x[%height%]/omio_1.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d11b99994af09a3721ed53b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d11b99994af09a3721ed53b/1024x500/omio_1.jpeg"
+            }
+          },
+          {
+            "_id": "5d0fa3e3211efef11a341e48",
+            "logo": {
+              "_id": "5d1deecf6abf93a47db804d3",
+              "name": "Logotype_Orange_Black_04.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1deecf6abf93a47db804d3/[%width%]x[%height%]/Logotype_Orange_Black_04.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1deecf6abf93a47db804d3",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1deecf6abf93a47db804d3/1024x500/Logotype_Orange_Black_04.png"
+            }
+          },
+          {
+            "_id": "5d10dcfd59bf33eb3642afe5",
+            "logo": {
+              "_id": "5d11be10cf77388f721c8119",
+              "name": "RENT_24_11.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d11be10cf77388f721c8119/[%width%]x[%height%]/RENT_24_11.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d11be10cf77388f721c8119",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d11be10cf77388f721c8119/1024x500/RENT_24_11.jpeg"
+            }
+          },
+          {
+            "_id": "5d10ea8b59bf33eb3642b0f9",
+            "logo": {
+              "_id": "5d134356ca1c99054833df5d",
+              "name": "ACC_GT_Dimensional_Purple_RGB_pos.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d134356ca1c99054833df5d/[%width%]x[%height%]/ACC_GT_Dimensional_Purple_RGB_pos.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d134356ca1c99054833df5d",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d134356ca1c99054833df5d/1024x500/ACC_GT_Dimensional_Purple_RGB_pos.png"
+            }
+          },
+          {
+            "_id": "5d1116e35ee2aceb1ab22f98",
+            "logo": {
+              "_id": "5d11c98194af09a3721ed582",
+              "name": "NEXT_1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d11c98194af09a3721ed582/[%width%]x[%height%]/NEXT_1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d11c98194af09a3721ed582",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d11c98194af09a3721ed582/1024x500/NEXT_1.png"
+            }
+          },
+          {
+            "_id": "5d1210d73023368014f30405",
+            "logo": {
+              "_id": "5d1214267383e8153f2a166c",
+              "name": "6.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1214267383e8153f2a166c/[%width%]x[%height%]/6.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1214267383e8153f2a166c",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1214267383e8153f2a166c/1024x500/6.png"
+            }
+          },
+          {
+            "_id": "5d124cdf3023368014f33ba4",
+            "logo": {
+              "_id": "5d15d3c9e126cf1746ac2d77",
+              "name": "HUB_WEEK.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d15d3c9e126cf1746ac2d77/[%width%]x[%height%]/HUB_WEEK.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d15d3c9e126cf1746ac2d77",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d15d3c9e126cf1746ac2d77/1024x500/HUB_WEEK.png"
+            }
+          },
+          {
+            "_id": "5d13251bee4403f16fdc1bbf",
+            "logo": {
+              "_id": "5d1344ff19cd190b4806a2db",
+              "name": "grover_logo_mark_gradient.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1344ff19cd190b4806a2db/[%width%]x[%height%]/grover_logo_mark_gradient.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1344ff19cd190b4806a2db",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1344ff19cd190b4806a2db/1024x500/grover_logo_mark_gradient.png"
+            }
+          },
+          {
+            "_id": "5d133b99a9c697222719e319",
+            "logo": {
+              "_id": "5d134a58b824d71c27526e9f",
+              "name": "Smavoo_Logo_schwarz.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d134a58b824d71c27526e9f/[%width%]x[%height%]/Smavoo_Logo_schwarz.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d134a58b824d71c27526e9f",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d134a58b824d71c27526e9f/1024x500/Smavoo_Logo_schwarz.png"
+            }
+          },
+          {
+            "_id": "5d1486acc828b9bd50679263",
+            "logo": {
+              "_id": "5d149247f867fdfe743bef77",
+              "name": "OMR_1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d149247f867fdfe743bef77/[%width%]x[%height%]/OMR_1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d149247f867fdfe743bef77",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d149247f867fdfe743bef77/1024x500/OMR_1.png"
+            }
+          },
+          {
+            "_id": "5d14c4c1872e75c7506ff596",
+            "logo": {
+              "_id": "5d14d07ef867fdfe743bfa1c",
+              "name": "5.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d14d07ef867fdfe743bfa1c/[%width%]x[%height%]/5.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d14d07ef867fdfe743bfa1c",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d14d07ef867fdfe743bfa1c/1024x500/5.png"
+            }
+          },
+          {
+            "_id": "5d14cd45c828b9bd5067c282",
+            "logo": {
+              "_id": "5d14ce02c828b9bd5067c954",
+              "name": "bcgplatinion_Online_large_color_logo_only.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d14ce02c828b9bd5067c954/[%width%]x[%height%]/bcgplatinion_Online_large_color_logo_only.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d14ce02c828b9bd5067c954",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d14ce02c828b9bd5067c954/1024x500/bcgplatinion_Online_large_color_logo_only.png"
+            }
+          },
+          {
+            "_id": "5d14d627f867fdfe743c14e2",
+            "logo": {
+              "_id": "5d14d64e3e549808756ddd2c",
+              "name": "5.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d14d64e3e549808756ddd2c/[%width%]x[%height%]/5.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d14d64e3e549808756ddd2c",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d14d64e3e549808756ddd2c/1024x500/5.png"
+            }
+          },
+          {
+            "_id": "5d1500a3c93eacab2a1edafd",
+            "logo": {
+              "_id": "5d15be9bdc572a2146cacbad",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d15be9bdc572a2146cacbad/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d15be9bdc572a2146cacbad",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d15be9bdc572a2146cacbad/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d15328fc93eacab2a1ee3e8",
+            "logo": {
+              "_id": "5d15b54edc572a2146caafc0",
+              "name": "ZALANDO_1.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d15b54edc572a2146caafc0/[%width%]x[%height%]/ZALANDO_1.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d15b54edc572a2146caafc0",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d15b54edc572a2146caafc0/1024x500/ZALANDO_1.jpeg"
+            }
+          },
+          {
+            "_id": "5d166bf71e955e7a6758c692",
+            "logo": {
+              "_id": "5d17715431336d3c087baa80",
+              "name": "44490355_1951488535151575_7655145843472728064_n.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d17715431336d3c087baa80/[%width%]x[%height%]/44490355_1951488535151575_7655145843472728064_n.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d17715431336d3c087baa80",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d17715431336d3c087baa80/1024x500/44490355_1951488535151575_7655145843472728064_n.jpg"
+            }
+          },
+          {
+            "_id": "5d18eb017ca2f2fc17fd6f9b",
+            "logo": {
+              "_id": "5d19b4b175f267300274c498",
+              "name": "Hub_Rhea_Final_01.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d19b4b175f267300274c498/[%width%]x[%height%]/Hub_Rhea_Final_01.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d19b4b175f267300274c498",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d19b4b175f267300274c498/1024x500/Hub_Rhea_Final_01.jpg"
+            }
+          },
+          {
+            "_id": "5d19a09b75f267300274bc32",
+            "logo": {
+              "_id": "5d19e866e434cc69566c0c5e",
+              "name": "ORIGINATE_1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d19e866e434cc69566c0c5e/[%width%]x[%height%]/ORIGINATE_1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d19e866e434cc69566c0c5e",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d19e866e434cc69566c0c5e/1024x500/ORIGINATE_1.png"
+            }
+          },
+          {
+            "_id": "5d19d0529dbd6c5f56e1fa0c",
+            "logo": {
+              "_id": "5d19d08de434cc69566c0b95",
+              "name": "1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95/[%width%]x[%height%]/1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95/1024x500/1.png"
+            }
+          },
+          {
+            "_id": "5d19d13dc6a4120540bcec03",
+            "logo": {
+              "_id": "5d19e5b1e434cc69566c0c36",
+              "name": "trendone_1.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d19e5b1e434cc69566c0c36/[%width%]x[%height%]/trendone_1.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d19e5b1e434cc69566c0c36",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d19e5b1e434cc69566c0c36/1024x500/trendone_1.jpeg"
+            }
+          },
+          {
+            "_id": "5d19dbe8c6a4120540bcef28",
+            "logo": {
+              "_id": "5d1b540d16c7b9806b536689",
+              "name": "61695052_571313916725947_9215107574884466688_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1b540d16c7b9806b536689/[%width%]x[%height%]/61695052_571313916725947_9215107574884466688_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b540d16c7b9806b536689",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b540d16c7b9806b536689/1024x500/61695052_571313916725947_9215107574884466688_n.png"
+            }
+          },
+          {
+            "_id": "5d1a71b97d4c36190be47abd",
+            "logo": {
+              "_id": "5d1afd12cc92731131836afa",
+              "name": "Elinvar.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1afd12cc92731131836afa/[%width%]x[%height%]/Elinvar.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1afd12cc92731131836afa",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1afd12cc92731131836afa/1024x500/Elinvar.png"
+            }
+          },
+          {
+            "_id": "5d1a7c387d4c36190be481be",
+            "logo": {
+              "_id": "5d1afef01a52f91b31d925f4",
+              "name": "NERD_COMMUNICATION_.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1afef01a52f91b31d925f4/[%width%]x[%height%]/NERD_COMMUNICATION_.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1afef01a52f91b31d925f4",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1afef01a52f91b31d925f4/1024x500/NERD_COMMUNICATION_.png"
+            }
+          },
+          {
+            "_id": "5d1b06de1a52f91b31d9261b",
+            "logo": {
+              "_id": "5d1b0726cc92731131836b46",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1b0726cc92731131836b46/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b0726cc92731131836b46",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b0726cc92731131836b46/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d1b09eccc92731131836c37",
+            "logo": {
+              "_id": "5d1b59c2bd89275354497832",
+              "name": "GartenHaus_logo_square_social_media_1_.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1b59c2bd89275354497832/[%width%]x[%height%]/GartenHaus_logo_square_social_media_1_.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b59c2bd89275354497832",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b59c2bd89275354497832/1024x500/GartenHaus_logo_square_social_media_1_.jpg"
+            }
+          },
+          {
+            "_id": "5d1b36f116c7b9806b5359ee",
+            "logo": {
+              "_id": "5d1b377a16c7b9806b5359f8",
+              "name": "OPITZ_CONSULTING_1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1b377a16c7b9806b5359f8/[%width%]x[%height%]/OPITZ_CONSULTING_1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b377a16c7b9806b5359f8",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b377a16c7b9806b5359f8/1024x500/OPITZ_CONSULTING_1.png"
+            }
+          },
+          {
+            "_id": "5d1b370c0ca8a08a6ba5d568",
+            "logo": {
+              "_id": "5d1b37470ca8a08a6ba5d56d",
+              "name": "5.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1b37470ca8a08a6ba5d56d/[%width%]x[%height%]/5.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b37470ca8a08a6ba5d56d",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b37470ca8a08a6ba5d56d/1024x500/5.png"
+            }
+          },
+          {
+            "_id": "5d1b46610ca8a08a6ba5d60b",
+            "logo": {
+              "_id": "5d1b467816c7b9806b5362f7",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1b467816c7b9806b5362f7/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b467816c7b9806b5362f7",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b467816c7b9806b5362f7/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d1b7ba9d468e7615f7bb25f",
+            "logo": {
+              "_id": "5d1c44e398c2f9b629c0a773",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1c44e398c2f9b629c0a773/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c44e398c2f9b629c0a773",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c44e398c2f9b629c0a773/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d1bc4a713c1017a1eb15c70",
+            "logo": {
+              "_id": "5d1c49d76064a3ac29cef52f",
+              "name": "KIProtect_1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1c49d76064a3ac29cef52f/[%width%]x[%height%]/KIProtect_1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c49d76064a3ac29cef52f",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c49d76064a3ac29cef52f/1024x500/KIProtect_1.png"
+            }
+          },
+          {
+            "_id": "5d1c683398c2f9b629c0c099",
+            "logo": {
+              "_id": "5d1c69956064a3ac29cef54f",
+              "name": "VIMEO_.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1c69956064a3ac29cef54f/[%width%]x[%height%]/VIMEO_.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c69956064a3ac29cef54f",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c69956064a3ac29cef54f/1024x500/VIMEO_.jpeg"
+            }
+          },
+          {
+            "_id": "5d1c82fc98c2f9b629c0c0ee",
+            "logo": {
+              "_id": "5d1c83346064a3ac29cef77a",
+              "name": "0.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1c83346064a3ac29cef77a/[%width%]x[%height%]/0.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c83346064a3ac29cef77a",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c83346064a3ac29cef77a/1024x500/0.jpg"
+            }
+          },
+          {
+            "_id": "5d1cade48fd59359019be8a4",
+            "logo": {
+              "_id": "5d1cb46098c2f9b629c0c206",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1cb46098c2f9b629c0c206/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1cb46098c2f9b629c0c206",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1cb46098c2f9b629c0c206/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5d1da01c6abf93a47db7cdd8",
+            "logo": {
+              "_id": "5d1da0368fd59359019c15ac",
+              "name": "250319_Keleya_Logo_White_back_300dpi.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1da0368fd59359019c15ac/[%width%]x[%height%]/250319_Keleya_Logo_White_back_300dpi.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1da0368fd59359019c15ac",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1da0368fd59359019c15ac/1024x500/250319_Keleya_Logo_White_back_300dpi.jpg"
+            }
+          },
+          {
+            "_id": "5d1dae5a98c2f9b629c0cb13",
+            "logo": {
+              "_id": "5d1daf676064a3ac29cf073a",
+              "name": "0.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1daf676064a3ac29cf073a/[%width%]x[%height%]/0.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1daf676064a3ac29cf073a",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1daf676064a3ac29cf073a/1024x500/0.jpg"
+            }
+          },
+          {
+            "_id": "5d1dbc4c6064a3ac29cf0745",
+            "logo": {
+              "_id": "5d1dbc6d6064a3ac29cf0749",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1dbc6d6064a3ac29cf0749/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1dbc6d6064a3ac29cf0749",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1dbc6d6064a3ac29cf0749/1024x500/0.png"
+            }
+          }
+        ],
+        "image": {
+          "_id": "5d134482992313e16f58d4f0",
+          "name": "TOA_2019_Ger_optim.jpg",
+          "template": "https://defqg3hhd82zq.cloudfront.net/5d134482992313e16f58d4f0/[%width%]x[%height%]/TOA_2019_Ger_optim.jpg",
+          "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d134482992313e16f58d4f0",
+          "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d134482992313e16f58d4f0/1024x500/TOA_2019_Ger_optim.jpg"
+        },
+        "name": "TOA19 ",
+        "type": "default",
+        "hasRequested": false,
+        "description": "TOA, Europe’s Leading Technology Festival, is once again showing us the future of tech, work, and life by bringing together the brightest Talents and coolest employers. We’re excited to introduce you companies that are ready to meet and greet on the spot during the event."
+      }
+    },
+    {
+      "type": "big-image",
+      "tag": {
+        "_id": "5d2dd0648956d6cc3c275697",
+        "companies": [
+          {
+            "_id": "5be92ed938afd8ae2fa8bfc5",
+            "logo": {
+              "_id": "5bec181f63c633160dcceb56",
+              "name": "Unknown.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5bec181f63c633160dcceb56/[%width%]x[%height%]/Unknown.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5bec181f63c633160dcceb56",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5bec181f63c633160dcceb56/1024x500/Unknown.png"
+            }
+          },
+          {
+            "_id": "5bea872b20131c207e5c92c3",
+            "logo": {
+              "_id": "5bead8f913cdde1a6298cc1e",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5bead8f913cdde1a6298cc1e/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5bead8f913cdde1a6298cc1e",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5bead8f913cdde1a6298cc1e/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5bfe998a776b0bd336235736",
+            "logo": {
+              "_id": "5d15c139e126cf1746ac2c52",
+              "name": "GLIPSA_1.jpeg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d15c139e126cf1746ac2c52/[%width%]x[%height%]/GLIPSA_1.jpeg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d15c139e126cf1746ac2c52",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d15c139e126cf1746ac2c52/1024x500/GLIPSA_1.jpeg"
+            }
+          },
+          {
+            "_id": "5c3892b04c670593768f2d6a",
+            "logo": {
+              "_id": "5c389365a1571f8976a2b4d9",
+              "name": "47684342_10161143414630537_2469945944292982784_n.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c389365a1571f8976a2b4d9/[%width%]x[%height%]/47684342_10161143414630537_2469945944292982784_n.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c389365a1571f8976a2b4d9",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c389365a1571f8976a2b4d9/1024x500/47684342_10161143414630537_2469945944292982784_n.png"
+            }
+          },
+          {
+            "_id": "5c45ab7c4e8f33c32684a0e3",
+            "logo": {
+              "_id": "5c45abdf00064db92683bdc5",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c45abdf00064db92683bdc5/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c45abdf00064db92683bdc5",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c45abdf00064db92683bdc5/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c484c1180fe8547420fd13a",
+            "logo": {
+              "_id": "5c484c4780fe8547420fd13e",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c484c4780fe8547420fd13e/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c484c4780fe8547420fd13e",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c484c4780fe8547420fd13e/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c4ac1002a49c43d6e6f8119",
+            "logo": {
+              "_id": "5c4ac1652a49c43d6e6f811e",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4ac1652a49c43d6e6f811e/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ac1652a49c43d6e6f811e",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ac1652a49c43d6e6f811e/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c50265269c391db1b133d07",
+            "logo": {
+              "_id": "5c5026929be98fe51bb0f9b0",
+              "name": "tesla.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c5026929be98fe51bb0f9b0/[%width%]x[%height%]/tesla.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5026929be98fe51bb0f9b0",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5026929be98fe51bb0f9b0/1024x500/tesla.png"
+            }
+          },
+          {
+            "_id": "5c504d4811397e55448692f5",
+            "logo": {
+              "_id": "5c504e2e11397e5544869300",
+              "name": "agor.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c504e2e11397e5544869300/[%width%]x[%height%]/agor.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c504e2e11397e5544869300",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c504e2e11397e5544869300/1024x500/agor.png"
+            }
+          },
+          {
+            "_id": "5c516acc0c9c05a32b1176fc",
+            "logo": {
+              "_id": "5c516af50c9c05a32b117700",
+              "name": "bcg.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c516af50c9c05a32b117700/[%width%]x[%height%]/bcg.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c516af50c9c05a32b117700",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c516af50c9c05a32b117700/1024x500/bcg.jpg"
+            }
+          },
+          {
+            "_id": "5c519df47a32e01240744910",
+            "logo": {
+              "_id": "5c519e6c7a32e01240744923",
+              "name": "hf1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c519e6c7a32e01240744923/[%width%]x[%height%]/hf1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c519e6c7a32e01240744923",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c519e6c7a32e01240744923/1024x500/hf1.png"
+            }
+          },
+          {
+            "_id": "5c51a3527a32e01240744957",
+            "logo": {
+              "_id": "5c51a3607a32e0124074495b",
+              "name": "sop.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51a3607a32e0124074495b/[%width%]x[%height%]/sop.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51a3607a32e0124074495b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51a3607a32e0124074495b/1024x500/sop.jpg"
+            }
+          },
+          {
+            "_id": "5c51ab203cca7e0840a8a0b3",
+            "logo": {
+              "_id": "5c51ab763cca7e0840a8a0b7",
+              "name": "38120613_10156668189089662_3703595302008127488_n.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c51ab763cca7e0840a8a0b7/[%width%]x[%height%]/38120613_10156668189089662_3703595302008127488_n.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51ab763cca7e0840a8a0b7",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51ab763cca7e0840a8a0b7/1024x500/38120613_10156668189089662_3703595302008127488_n.jpg"
+            }
+          },
+          {
+            "_id": "5c52af207186183b53e3d421",
+            "logo": {
+              "_id": "5c52af637186183b53e3d424",
+              "name": "take.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424/[%width%]x[%height%]/take.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424/1024x500/take.png"
+            }
+          },
+          {
+            "_id": "5c595ffd54bd59ae663af0e9",
+            "logo": {
+              "_id": "5c59607be71105a4664cf991",
+              "name": "12371069_988474527858441_4152329939611705947_o.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c59607be71105a4664cf991/[%width%]x[%height%]/12371069_988474527858441_4152329939611705947_o.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c59607be71105a4664cf991",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c59607be71105a4664cf991/1024x500/12371069_988474527858441_4152329939611705947_o.png"
+            }
+          },
+          {
+            "_id": "5c6ea9bdce5c25d579d3f62c",
+            "logo": {
+              "_id": "5c6eaa07ce5c25d579d3f63b",
+              "name": "48412319_995595637307380_2776443409060069376_o.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c6eaa07ce5c25d579d3f63b/[%width%]x[%height%]/48412319_995595637307380_2776443409060069376_o.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c6eaa07ce5c25d579d3f63b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c6eaa07ce5c25d579d3f63b/1024x500/48412319_995595637307380_2776443409060069376_o.jpg"
+            }
+          },
+          {
+            "_id": "5d076c7ec4effe876e154df6",
+            "logo": {
+              "_id": "5d076d393ce19d916e88da1f",
+              "name": "JPG_800width_PMI_global_V_Blue_HIRES.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d076d393ce19d916e88da1f/[%width%]x[%height%]/JPG_800width_PMI_global_V_Blue_HIRES.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d076d393ce19d916e88da1f",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d076d393ce19d916e88da1f/1024x500/JPG_800width_PMI_global_V_Blue_HIRES.jpg"
+            }
+          },
+          {
+            "_id": "5d14cd45c828b9bd5067c282",
+            "logo": {
+              "_id": "5d14ce02c828b9bd5067c954",
+              "name": "bcgplatinion_Online_large_color_logo_only.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d14ce02c828b9bd5067c954/[%width%]x[%height%]/bcgplatinion_Online_large_color_logo_only.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d14ce02c828b9bd5067c954",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d14ce02c828b9bd5067c954/1024x500/bcgplatinion_Online_large_color_logo_only.png"
+            }
+          },
+          {
+            "_id": "5d8b2c318aac3a128bc0bc54",
+            "logo": {
+              "_id": "5d8b2f255f0ade0012c85485",
+              "name": "Screenshot_2019_09_25_at_12.10.48.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d8b2f255f0ade0012c85485/[%width%]x[%height%]/Screenshot_2019_09_25_at_12.10.48.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d8b2f255f0ade0012c85485",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d8b2f255f0ade0012c85485/1024x500/Screenshot_2019_09_25_at_12.10.48.png"
+            }
+          }
+        ],
+        "image": {
+          "_id": "5d417cb81dd005aa4e66055f",
+          "name": "coolest_offices.jpg",
+          "template": "https://defqg3hhd82zq.cloudfront.net/5d417cb81dd005aa4e66055f/[%width%]x[%height%]/coolest_offices.jpg",
+          "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d417cb81dd005aa4e66055f",
+          "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d417cb81dd005aa4e66055f/1024x500/coolest_offices.jpg"
+        },
+        "name": "Coolest office",
+        "type": "default",
+        "hasRequested": false,
+        "description": "What is another element that will make you more productive? Your surroundings. Lots of space for great ideas or a cozy corner with beanbags to unwind. These companies have put the effort in to make their team feel at their best when in the office."
+      }
+    },
+    {
+      "type": "big-image",
+      "tag": {
+        "_id": "5d2dd7ad8956d6cc3c27569a",
+        "companies": [
+          {
+            "_id": "5be43ba9cddad35a339b8bfa",
+            "logo": {
+              "_id": "5dc999ea08298d00126d03f3",
+              "name": "Humanitec_logo_11.11.19.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5dc999ea08298d00126d03f3/[%width%]x[%height%]/Humanitec_logo_11.11.19.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5dc999ea08298d00126d03f3",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5dc999ea08298d00126d03f3/1024x500/Humanitec_logo_11.11.19.png"
+            }
+          },
+          {
+            "_id": "5c4731551ba8aee54e4ecfcf",
+            "logo": {
+              "_id": "5c481d9bcc6d60ec02813cbe",
+              "name": "0.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c481d9bcc6d60ec02813cbe/[%width%]x[%height%]/0.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c481d9bcc6d60ec02813cbe",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c481d9bcc6d60ec02813cbe/1024x500/0.png"
+            }
+          },
+          {
+            "_id": "5c4ec8030213930262998836",
+            "logo": {
+              "_id": "5c4ecf65021393026299884b",
+              "name": "auto1.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c4ecf65021393026299884b/[%width%]x[%height%]/auto1.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ecf65021393026299884b",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ecf65021393026299884b/1024x500/auto1.jpg"
+            }
+          },
+          {
+            "_id": "5c501a189be98fe51bb0f91a",
+            "logo": {
+              "_id": "5c501b139be98fe51bb0f920",
+              "name": "save.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c501b139be98fe51bb0f920/[%width%]x[%height%]/save.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c501b139be98fe51bb0f920",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c501b139be98fe51bb0f920/1024x500/save.png"
+            }
+          },
+          {
+            "_id": "5c50370011397e554486906c",
+            "logo": {
+              "_id": "5c50375211397e554486906f",
+              "name": "18556996_1393182704103525_2525601564048345785_n.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c50375211397e554486906f/[%width%]x[%height%]/18556996_1393182704103525_2525601564048345785_n.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c50375211397e554486906f",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c50375211397e554486906f/1024x500/18556996_1393182704103525_2525601564048345785_n.jpg"
+            }
+          },
+          {
+            "_id": "5c519a703cca7e0840a8a04d",
+            "logo": {
+              "_id": "5c519cc27a32e0124074490c",
+              "name": "1200px_General_Electric_logo.svg.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c519cc27a32e0124074490c/[%width%]x[%height%]/1200px_General_Electric_logo.svg.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c519cc27a32e0124074490c",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c519cc27a32e0124074490c/1024x500/1200px_General_Electric_logo.svg.png"
+            }
+          },
+          {
+            "_id": "5c52b1b27186183b53e3d4b6",
+            "logo": {
+              "_id": "5c52b1ea81d9112d533f3ef1",
+              "name": "sono.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5c52b1ea81d9112d533f3ef1/[%width%]x[%height%]/sono.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52b1ea81d9112d533f3ef1",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52b1ea81d9112d533f3ef1/1024x500/sono.jpg"
+            }
+          },
+          {
+            "_id": "5c653beb37d43e2142334ce7",
+            "logo": {
+              "_id": "5d0797e42712a2be7fc63a2e",
+              "name": "caresyntax1.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d0797e42712a2be7fc63a2e/[%width%]x[%height%]/caresyntax1.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0797e42712a2be7fc63a2e",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0797e42712a2be7fc63a2e/1024x500/caresyntax1.png"
+            }
+          },
+          {
+            "_id": "5d1c82fc98c2f9b629c0c0ee",
+            "logo": {
+              "_id": "5d1c83346064a3ac29cef77a",
+              "name": "0.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1c83346064a3ac29cef77a/[%width%]x[%height%]/0.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c83346064a3ac29cef77a",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c83346064a3ac29cef77a/1024x500/0.jpg"
+            }
+          },
+          {
+            "_id": "5d1dae5a98c2f9b629c0cb13",
+            "logo": {
+              "_id": "5d1daf676064a3ac29cf073a",
+              "name": "0.jpg",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d1daf676064a3ac29cf073a/[%width%]x[%height%]/0.jpg",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1daf676064a3ac29cf073a",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1daf676064a3ac29cf073a/1024x500/0.jpg"
+            }
+          },
+          {
+            "_id": "5d8b2c318aac3a128bc0bc54",
+            "logo": {
+              "_id": "5d8b2f255f0ade0012c85485",
+              "name": "Screenshot_2019_09_25_at_12.10.48.png",
+              "template": "https://defqg3hhd82zq.cloudfront.net/5d8b2f255f0ade0012c85485/[%width%]x[%height%]/Screenshot_2019_09_25_at_12.10.48.png",
+              "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d8b2f255f0ade0012c85485",
+              "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d8b2f255f0ade0012c85485/1024x500/Screenshot_2019_09_25_at_12.10.48.png"
+            }
+          }
+        ],
+        "image": {
+          "_id": "5d417d271dd005aa4e660560",
+          "name": "enviroment.jpg",
+          "template": "https://defqg3hhd82zq.cloudfront.net/5d417d271dd005aa4e660560/[%width%]x[%height%]/enviroment.jpg",
+          "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d417d271dd005aa4e660560",
+          "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d417d271dd005aa4e660560/1024x500/enviroment.jpg"
+        },
+        "name": "Socially and Ecologically Responsible",
+        "type": "default",
+        "hasRequested": false,
+        "description": "These are the companies that want to give back. On top of aiming to build a successful business they also focus on minimizing harmful effects and being a force for good in society. Change starts from within."
+      }
+    }
+  ]
+}

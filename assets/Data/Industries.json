@@ -1,0 +1,654 @@
+{
+  "industries": [
+    {
+      "_id": "5a0e2ef400d79cd75dc83bcd",
+      "name": "FinTech",
+      "companiesCount": 26,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c6eaa07ce5c25d579d3f63b",
+        "name": "48412319_995595637307380_2776443409060069376_o.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c6eaa07ce5c25d579d3f63b/[%width%]x[%height%]/48412319_995595637307380_2776443409060069376_o.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c6eaa07ce5c25d579d3f63b",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c6eaa07ce5c25d579d3f63b/1024x500/48412319_995595637307380_2776443409060069376_o.jpg"
+      }
+    },
+    {
+      "_id": "5a0e2ef700d79cd75dc83bd8",
+      "name": "Consultancy",
+      "companiesCount": 78,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c45d52858a4cc185bc39d28",
+        "name": "0.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c45d52858a4cc185bc39d28/[%width%]x[%height%]/0.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c45d52858a4cc185bc39d28",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c45d52858a4cc185bc39d28/1024x500/0.jpg"
+      }
+    },
+    {
+      "_id": "5c0e6718b0285d5d3dd9a922",
+      "name": "Banking",
+      "companiesCount": 7,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c4f11ee021393026299899e",
+        "name": "pen.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c4f11ee021393026299899e/[%width%]x[%height%]/pen.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f11ee021393026299899e",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f11ee021393026299899e/1024x500/pen.png"
+      }
+    },
+    {
+      "_id": "5c0e671db0285d5d3dd9a923",
+      "name": "Investing",
+      "companiesCount": 13,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c51680f32291caf2bdfe815",
+        "name": "coop.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51680f32291caf2bdfe815/[%width%]x[%height%]/coop.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51680f32291caf2bdfe815",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51680f32291caf2bdfe815/1024x500/coop.jpg"
+      }
+    },
+    {
+      "_id": "5c0e6723b0285d5d3dd9a924",
+      "name": "Insurance",
+      "companiesCount": 6,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c0f714d0aad2bd805cb9761",
+        "name": "download_27_.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c0f714d0aad2bd805cb9761/[%width%]x[%height%]/download_27_.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c0f714d0aad2bd805cb9761",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c0f714d0aad2bd805cb9761/1024x500/download_27_.png"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee50",
+      "name": "Consumer, Retail, Fashion",
+      "companiesCount": 43,
+      "hasRequested": false,
+      "image": {
+        "_id": "5beec2aaa974380b1b5e263b",
+        "name": "WF_LOGO.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5beec2aaa974380b1b5e263b/[%width%]x[%height%]/WF_LOGO.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5beec2aaa974380b1b5e263b",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5beec2aaa974380b1b5e263b/1024x500/WF_LOGO.jpg"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee51",
+      "name": "Construction and Real Estate",
+      "companiesCount": 17,
+      "hasRequested": false,
+      "image": {
+        "_id": "5beec2aaa974380b1b5e263b",
+        "name": "WF_LOGO.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5beec2aaa974380b1b5e263b/[%width%]x[%height%]/WF_LOGO.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5beec2aaa974380b1b5e263b",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5beec2aaa974380b1b5e263b/1024x500/WF_LOGO.jpg"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee53",
+      "name": "Education",
+      "companiesCount": 20,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c51a2093cca7e0840a8a076",
+        "name": "viva.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51a2093cca7e0840a8a076/[%width%]x[%height%]/viva.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51a2093cca7e0840a8a076",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51a2093cca7e0840a8a076/1024x500/viva.jpg"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee55",
+      "name": "Energy and Utilities",
+      "companiesCount": 22,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c58511a1567a0e06e7cdca2",
+        "name": "51051997_386600828774234_5661088464624418816_n.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c58511a1567a0e06e7cdca2/[%width%]x[%height%]/51051997_386600828774234_5661088464624418816_n.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c58511a1567a0e06e7cdca2",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c58511a1567a0e06e7cdca2/1024x500/51051997_386600828774234_5661088464624418816_n.jpg"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee56",
+      "name": "Food and Beverage",
+      "companiesCount": 12,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c501b139be98fe51bb0f920",
+        "name": "save.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c501b139be98fe51bb0f920/[%width%]x[%height%]/save.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c501b139be98fe51bb0f920",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c501b139be98fe51bb0f920/1024x500/save.png"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee58",
+      "name": "Government and Public Sector",
+      "companiesCount": 3,
+      "hasRequested": false,
+      "image": {
+        "_id": "5d0c7dd1cf77388f721c741b",
+        "name": "5.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d0c7dd1cf77388f721c741b/[%width%]x[%height%]/5.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0c7dd1cf77388f721c741b",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0c7dd1cf77388f721c741b/1024x500/5.png"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee59",
+      "name": "Healthcare and Medical",
+      "companiesCount": 18,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c51b8b43cca7e0840a8a0ea",
+        "name": "thomas.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51b8b43cca7e0840a8a0ea/[%width%]x[%height%]/thomas.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51b8b43cca7e0840a8a0ea",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51b8b43cca7e0840a8a0ea/1024x500/thomas.jpg"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee5e",
+      "name": "Manufacturing",
+      "companiesCount": 31,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c58511a1567a0e06e7cdca2",
+        "name": "51051997_386600828774234_5661088464624418816_n.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c58511a1567a0e06e7cdca2/[%width%]x[%height%]/51051997_386600828774234_5661088464624418816_n.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c58511a1567a0e06e7cdca2",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c58511a1567a0e06e7cdca2/1024x500/51051997_386600828774234_5661088464624418816_n.jpg"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee5f",
+      "name": "Media and Content",
+      "companiesCount": 33,
+      "hasRequested": false,
+      "image": {
+        "_id": "5d5137721fd6d2ab70997e01",
+        "name": "watermark.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d5137721fd6d2ab70997e01/[%width%]x[%height%]/watermark.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d5137721fd6d2ab70997e01",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d5137721fd6d2ab70997e01/1024x500/watermark.jpg"
+      }
+    },
+    {
+      "_id": "5a0e2ef700d79cd75dc83bd6",
+      "name": "AdTech",
+      "companiesCount": 9,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c4ee64cc8dc590c62466479",
+        "name": "dcmn.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c4ee64cc8dc590c62466479/[%width%]x[%height%]/dcmn.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ee64cc8dc590c62466479",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ee64cc8dc590c62466479/1024x500/dcmn.jpg"
+      }
+    },
+    {
+      "_id": "5c0e6780b0285d5d3dd9a92c",
+      "name": "Advertising",
+      "companiesCount": 16,
+      "hasRequested": false,
+      "image": {
+        "_id": "5d4beec33534d9840cc0dab5",
+        "name": "Logo_Square.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d4beec33534d9840cc0dab5/[%width%]x[%height%]/Logo_Square.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d4beec33534d9840cc0dab5",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d4beec33534d9840cc0dab5/1024x500/Logo_Square.png"
+      }
+    },
+    {
+      "_id": "5c0e6792b0285d5d3dd9a92e",
+      "name": "Marketing",
+      "companiesCount": 48,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c52af637186183b53e3d424",
+        "name": "take.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424/[%width%]x[%height%]/take.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52af637186183b53e3d424/1024x500/take.png"
+      }
+    },
+    {
+      "_id": "5c0e67b3b0285d5d3dd9a931",
+      "name": "Design and Creative",
+      "companiesCount": 83,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c4f14d502139302629989ab",
+        "name": "17884627_1322819071140950_8404586154925926938_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c4f14d502139302629989ab/[%width%]x[%height%]/17884627_1322819071140950_8404586154925926938_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f14d502139302629989ab",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f14d502139302629989ab/1024x500/17884627_1322819071140950_8404586154925926938_n.png"
+      }
+    },
+    {
+      "_id": "5c0e67c3b0285d5d3dd9a932",
+      "name": "PR & Communications",
+      "companiesCount": 12,
+      "hasRequested": false,
+      "image": {
+        "_id": "5d0a184ca36a4b5e61fb644b",
+        "name": "Livelntent_1.jpeg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d0a184ca36a4b5e61fb644b/[%width%]x[%height%]/Livelntent_1.jpeg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a184ca36a4b5e61fb644b",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a184ca36a4b5e61fb644b/1024x500/Livelntent_1.jpeg"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee62",
+      "name": "Non-profit",
+      "companiesCount": 5,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c501b139be98fe51bb0f920",
+        "name": "save.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c501b139be98fe51bb0f920/[%width%]x[%height%]/save.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c501b139be98fe51bb0f920",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c501b139be98fe51bb0f920/1024x500/save.png"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee67",
+      "name": "Sports, Recreation, Wellness",
+      "companiesCount": 13,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c5025bc69c391db1b133d05",
+        "name": "28161882_1854447817908221_9194917522510291151_o.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5025bc69c391db1b133d05/[%width%]x[%height%]/28161882_1854447817908221_9194917522510291151_o.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5025bc69c391db1b133d05",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5025bc69c391db1b133d05/1024x500/28161882_1854447817908221_9194917522510291151_o.png"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee6a",
+      "name": "Travel, Tourism",
+      "companiesCount": 15,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c5028c569c391db1b133d14",
+        "name": "46511393_1366267850175537_6727026479076474880_o.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5028c569c391db1b133d14/[%width%]x[%height%]/46511393_1366267850175537_6727026479076474880_o.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5028c569c391db1b133d14",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5028c569c391db1b133d14/1024x500/46511393_1366267850175537_6727026479076474880_o.png"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee52",
+      "name": "Cleantech",
+      "companiesCount": 7,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c5026929be98fe51bb0f9b0",
+        "name": "tesla.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5026929be98fe51bb0f9b0/[%width%]x[%height%]/tesla.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5026929be98fe51bb0f9b0",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5026929be98fe51bb0f9b0/1024x500/tesla.png"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee54",
+      "name": "Electronics and Hardware",
+      "companiesCount": 38,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c4ed75b0213930262998860",
+        "name": "29511447_1750105761717157_6610983786551445523_n.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c4ed75b0213930262998860/[%width%]x[%height%]/29511447_1750105761717157_6610983786551445523_n.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ed75b0213930262998860",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ed75b0213930262998860/1024x500/29511447_1750105761717157_6610983786551445523_n.jpg"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee57",
+      "name": "Gaming",
+      "companiesCount": 6,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c371f66f9e8120e56bfb19d",
+        "name": "Screenshot_2019_01_04_at_11.58.29_PM.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c371f66f9e8120e56bfb19d/[%width%]x[%height%]/Screenshot_2019_01_04_at_11.58.29_PM.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c371f66f9e8120e56bfb19d",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c371f66f9e8120e56bfb19d/1024x500/Screenshot_2019_01_04_at_11.58.29_PM.png"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee64",
+      "name": "Robotics",
+      "companiesCount": 10,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c4ed75b0213930262998860",
+        "name": "29511447_1750105761717157_6610983786551445523_n.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c4ed75b0213930262998860/[%width%]x[%height%]/29511447_1750105761717157_6610983786551445523_n.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ed75b0213930262998860",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ed75b0213930262998860/1024x500/29511447_1750105761717157_6610983786551445523_n.jpg"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee65",
+      "name": "Software Development",
+      "companiesCount": 187,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c5028c569c391db1b133d14",
+        "name": "46511393_1366267850175537_6727026479076474880_o.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5028c569c391db1b133d14/[%width%]x[%height%]/46511393_1366267850175537_6727026479076474880_o.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5028c569c391db1b133d14",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5028c569c391db1b133d14/1024x500/46511393_1366267850175537_6727026479076474880_o.png"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee68",
+      "name": "Telecommunications",
+      "companiesCount": 13,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c4ed75b0213930262998860",
+        "name": "29511447_1750105761717157_6610983786551445523_n.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c4ed75b0213930262998860/[%width%]x[%height%]/29511447_1750105761717157_6610983786551445523_n.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ed75b0213930262998860",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ed75b0213930262998860/1024x500/29511447_1750105761717157_6610983786551445523_n.jpg"
+      }
+    },
+    {
+      "_id": "5a0e2ef200d79cd75dc83bc4",
+      "name": "Analytics & Big Data",
+      "companiesCount": 63,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c517b6d0c9c05a32b1177d4",
+        "name": "com1.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c517b6d0c9c05a32b1177d4/[%width%]x[%height%]/com1.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c517b6d0c9c05a32b1177d4",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c517b6d0c9c05a32b1177d4/1024x500/com1.png"
+      }
+    },
+    {
+      "_id": "5a0e2ef200d79cd75dc83bc5",
+      "name": "Artificial Intelligence",
+      "companiesCount": 33,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c4ed3640213930262998855",
+        "name": "ktronic.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c4ed3640213930262998855/[%width%]x[%height%]/ktronic.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ed3640213930262998855",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4ed3640213930262998855/1024x500/ktronic.jpg"
+      }
+    },
+    {
+      "_id": "5a0e2ef300d79cd75dc83bc7",
+      "name": "Biotechnology",
+      "companiesCount": 4,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c5000d19be98fe51bb0f837",
+        "name": "z_hl.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5000d19be98fe51bb0f837/[%width%]x[%height%]/z_hl.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5000d19be98fe51bb0f837",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5000d19be98fe51bb0f837/1024x500/z_hl.png"
+      }
+    },
+    {
+      "_id": "5a0e2ef300d79cd75dc83bc8",
+      "name": "Blockchain",
+      "companiesCount": 13,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c50168c69c391db1b133cb5",
+        "name": "28070521_337668356737650_485278291375754550_o.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c50168c69c391db1b133cb5/[%width%]x[%height%]/28070521_337668356737650_485278291375754550_o.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c50168c69c391db1b133cb5",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c50168c69c391db1b133cb5/1024x500/28070521_337668356737650_485278291375754550_o.jpg"
+      }
+    },
+    {
+      "_id": "5a0e2ef300d79cd75dc83bc9",
+      "name": "Cryptocurrencies",
+      "companiesCount": 4,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c5193467239c0192fed3341",
+        "name": "pla1.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5193467239c0192fed3341/[%width%]x[%height%]/pla1.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5193467239c0192fed3341",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5193467239c0192fed3341/1024x500/pla1.png"
+      }
+    },
+    {
+      "_id": "5a0e2ef400d79cd75dc83bca",
+      "name": "Cyber Security",
+      "companiesCount": 13,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c51a8767a32e012407449df",
+        "name": "telc.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51a8767a32e012407449df/[%width%]x[%height%]/telc.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51a8767a32e012407449df",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51a8767a32e012407449df/1024x500/telc.jpg"
+      }
+    },
+    {
+      "_id": "5a0e2ef400d79cd75dc83bcb",
+      "name": "E-commerce & Online Marketplaces",
+      "companiesCount": 58,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c51713932291caf2bdfe881",
+        "name": "veee.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51713932291caf2bdfe881/[%width%]x[%height%]/veee.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51713932291caf2bdfe881",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51713932291caf2bdfe881/1024x500/veee.png"
+      }
+    },
+    {
+      "_id": "5a0e2ef400d79cd75dc83bcc",
+      "name": "Enterprise Software",
+      "companiesCount": 25,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c59607be71105a4664cf991",
+        "name": "12371069_988474527858441_4152329939611705947_o.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c59607be71105a4664cf991/[%width%]x[%height%]/12371069_988474527858441_4152329939611705947_o.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c59607be71105a4664cf991",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c59607be71105a4664cf991/1024x500/12371069_988474527858441_4152329939611705947_o.png"
+      }
+    },
+    {
+      "_id": "5a0e2ef500d79cd75dc83bce",
+      "name": "Industrial internet & IoT",
+      "companiesCount": 24,
+      "hasRequested": false,
+      "image": {
+        "_id": "5d25cd0f5936eab045daee15",
+        "name": "CM_logo_meetfrank.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d25cd0f5936eab045daee15/[%width%]x[%height%]/CM_logo_meetfrank.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d25cd0f5936eab045daee15",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d25cd0f5936eab045daee15/1024x500/CM_logo_meetfrank.png"
+      }
+    },
+    {
+      "_id": "5a0e2ef500d79cd75dc83bcf",
+      "name": "Med tech & Pharma",
+      "companiesCount": 3,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c5000d19be98fe51bb0f837",
+        "name": "z_hl.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5000d19be98fe51bb0f837/[%width%]x[%height%]/z_hl.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5000d19be98fe51bb0f837",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5000d19be98fe51bb0f837/1024x500/z_hl.png"
+      }
+    },
+    {
+      "_id": "5a0e2ef500d79cd75dc83bd0",
+      "name": "On-demand Services",
+      "companiesCount": 21,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c4efe98c8dc590c624664e0",
+        "name": "swing.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c4efe98c8dc590c624664e0/[%width%]x[%height%]/swing.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4efe98c8dc590c624664e0",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4efe98c8dc590c624664e0/1024x500/swing.png"
+      }
+    },
+    {
+      "_id": "5a0e2ef600d79cd75dc83bd5",
+      "name": "SaaS",
+      "companiesCount": 62,
+      "hasRequested": false,
+      "image": {
+        "_id": "5bec181f63c633160dcceb56",
+        "name": "Unknown.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5bec181f63c633160dcceb56/[%width%]x[%height%]/Unknown.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5bec181f63c633160dcceb56",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5bec181f63c633160dcceb56/1024x500/Unknown.png"
+      }
+    },
+    {
+      "_id": "5a0e2ef700d79cd75dc83bd7",
+      "name": "Cloud Computing",
+      "companiesCount": 30,
+      "hasRequested": false,
+      "image": {
+        "_id": "5d15be9bdc572a2146cacbad",
+        "name": "0.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d15be9bdc572a2146cacbad/[%width%]x[%height%]/0.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d15be9bdc572a2146cacbad",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d15be9bdc572a2146cacbad/1024x500/0.png"
+      }
+    },
+    {
+      "_id": "5a0e2ef700d79cd75dc83bd9",
+      "name": "Consumer Mobile",
+      "companiesCount": 8,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c29dab09c6f403b45e23fd6",
+        "name": "0_34_.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c29dab09c6f403b45e23fd6/[%width%]x[%height%]/0_34_.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c29dab09c6f403b45e23fd6",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c29dab09c6f403b45e23fd6/1024x500/0_34_.png"
+      }
+    },
+    {
+      "_id": "5c0bddda9162454d67d3329e",
+      "name": "AR/VR",
+      "companiesCount": 8,
+      "hasRequested": false,
+      "image": {
+        "_id": "5cb8686446344c151ca723dc",
+        "name": "1.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5cb8686446344c151ca723dc/[%width%]x[%height%]/1.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5cb8686446344c151ca723dc",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5cb8686446344c151ca723dc/1024x500/1.jpg"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee4d",
+      "name": "Automotive",
+      "companiesCount": 17,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c45980c887d4051149b8d5b",
+        "name": "0.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c45980c887d4051149b8d5b/[%width%]x[%height%]/0.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c45980c887d4051149b8d5b",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c45980c887d4051149b8d5b/1024x500/0.png"
+      }
+    },
+    {
+      "_id": "5c0e682bb0285d5d3dd9a937",
+      "name": "Transport",
+      "companiesCount": 11,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c51b5cb3cca7e0840a8a0e1",
+        "name": "street.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51b5cb3cca7e0840a8a0e1/[%width%]x[%height%]/street.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51b5cb3cca7e0840a8a0e1",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51b5cb3cca7e0840a8a0e1/1024x500/street.jpg"
+      }
+    },
+    {
+      "_id": "5c0e6835b0285d5d3dd9a938",
+      "name": "Logistics",
+      "companiesCount": 7,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c57f62c89e2fd5445d0f474",
+        "name": "19060027_1921068188180786_6840396120718058098_n.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c57f62c89e2fd5445d0f474/[%width%]x[%height%]/19060027_1921068188180786_6840396120718058098_n.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c57f62c89e2fd5445d0f474",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c57f62c89e2fd5445d0f474/1024x500/19060027_1921068188180786_6840396120718058098_n.jpg"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee4f",
+      "name": "Business Consulting",
+      "companiesCount": 41,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c5158a90c9c05a32b117543",
+        "name": "fable.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5158a90c9c05a32b117543/[%width%]x[%height%]/fable.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5158a90c9c05a32b117543",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5158a90c9c05a32b117543/1024x500/fable.png"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee5a",
+      "name": "HR and Recruiting",
+      "companiesCount": 45,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c5023d19be98fe51bb0f954",
+        "name": "op.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5023d19be98fe51bb0f954/[%width%]x[%height%]/op.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5023d19be98fe51bb0f954",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5023d19be98fe51bb0f954/1024x500/op.jpg"
+      }
+    },
+    {
+      "_id": "59942ccf509a9c4cda42ee5d",
+      "name": "Legal",
+      "companiesCount": 4,
+      "hasRequested": false,
+      "image": {
+        "_id": "5c502b4a9be98fe51bb0f9bf",
+        "name": "31841849_2043133429047328_6801585827139813376_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c502b4a9be98fe51bb0f9bf/[%width%]x[%height%]/31841849_2043133429047328_6801585827139813376_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c502b4a9be98fe51bb0f9bf",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c502b4a9be98fe51bb0f9bf/1024x500/31841849_2043133429047328_6801585827139813376_n.png"
+      }
+    },
+    {
+      "_id": "5c0e68d8b0285d5d3dd9a93f",
+      "name": "Sales & Marketing",
+      "companiesCount": 41,
+      "hasRequested": false,
+      "image": {
+        "_id": "5d0b79cc0ef88e24574b8ca1",
+        "name": "0.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d0b79cc0ef88e24574b8ca1/[%width%]x[%height%]/0.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b79cc0ef88e24574b8ca1",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b79cc0ef88e24574b8ca1/1024x500/0.png"
+      }
+    }
+  ]
+}

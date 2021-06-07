@@ -1,0 +1,1327 @@
+{
+  "companyProfiles": [
+    {
+      "_id": "5cc8542a841ba6e34e678c44",
+      "name": "Birkle IT Estonia OÜ",
+      "headerImage": {
+        "_id": "5c0f71a630dc6ce505ccb565",
+        "name": "37342732_276875593082969_3393777376549666816_n.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c0f71a630dc6ce505ccb565/[%width%]x[%height%]/37342732_276875593082969_3393777376549666816_n.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c0f71a630dc6ce505ccb565",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c0f71a630dc6ce505ccb565/1024x500/37342732_276875593082969_3393777376549666816_n.jpg"
+      },
+      "logo": {
+        "_id": "5c0f714d0aad2bd805cb9761",
+        "name": "download_27_.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c0f714d0aad2bd805cb9761/[%width%]x[%height%]/download_27_.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c0f714d0aad2bd805cb9761",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c0f714d0aad2bd805cb9761/1024x500/download_27_.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c0f70c10aad2bd805cb975d"
+    },
+    {
+      "_id": "5ceba50084cab2ed2d701d23",
+      "name": "Minubo ",
+      "headerImage": {
+        "_id": "5c5055f35d81fc5f4425ab60",
+        "name": "minuc.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5055f35d81fc5f4425ab60/[%width%]x[%height%]/minuc.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5055f35d81fc5f4425ab60",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5055f35d81fc5f4425ab60/1024x500/minuc.jpg"
+      },
+      "logo": {
+        "_id": "5c5055ef5d81fc5f4425ab5f",
+        "name": "minu.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5055ef5d81fc5f4425ab5f/[%width%]x[%height%]/minu.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5055ef5d81fc5f4425ab5f",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5055ef5d81fc5f4425ab5f/1024x500/minu.jpg"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c5055be5d81fc5f4425ab59"
+    },
+    {
+      "_id": "5cfa7834e2b1b4f734e10cea",
+      "name": "Prodisfy",
+      "headerImage": {
+        "_id": "5cfa73ee399370190a96e408",
+        "name": "LinkedIn_Banners_new.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5cfa73ee399370190a96e408/[%width%]x[%height%]/LinkedIn_Banners_new.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5cfa73ee399370190a96e408",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5cfa73ee399370190a96e408/1024x500/LinkedIn_Banners_new.png"
+      },
+      "logo": {
+        "_id": "5cfa738de2b1b4f734e10bd6",
+        "name": "Logo_like_text_only_round.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5cfa738de2b1b4f734e10bd6/[%width%]x[%height%]/Logo_like_text_only_round.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5cfa738de2b1b4f734e10bd6",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5cfa738de2b1b4f734e10bd6/1024x500/Logo_like_text_only_round.jpg"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c4eee9a02139302629988ef"
+    },
+    {
+      "_id": "5d07b650fcc370f014760384",
+      "name": "Aiconix GmbH",
+      "headerImage": {
+        "_id": "5d07b8acfcc370f0147603b8",
+        "name": "52598137_2074674382617024_7239829480976416768_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d07b8acfcc370f0147603b8/[%width%]x[%height%]/52598137_2074674382617024_7239829480976416768_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d07b8acfcc370f0147603b8",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d07b8acfcc370f0147603b8/1024x500/52598137_2074674382617024_7239829480976416768_n.png"
+      },
+      "logo": {
+        "_id": "5d07b9b77d69284935611990",
+        "name": "53050715_2074677709283358_3734656578507243520_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d07b9b77d69284935611990/[%width%]x[%height%]/53050715_2074677709283358_3734656578507243520_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d07b9b77d69284935611990",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d07b9b77d69284935611990/1024x500/53050715_2074677709283358_3734656578507243520_n.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c4f17acc8dc590c62466582"
+    },
+    {
+      "_id": "5d08e49f2712a2be7fc63d52",
+      "name": "Arvato CRM Solutions",
+      "headerImage": {
+        "_id": "5c51b1113cca7e0840a8a0cc",
+        "name": "arva1.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51b1113cca7e0840a8a0cc/[%width%]x[%height%]/arva1.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51b1113cca7e0840a8a0cc",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51b1113cca7e0840a8a0cc/1024x500/arva1.png"
+      },
+      "logo": {
+        "_id": "5c51b1093cca7e0840a8a0cb",
+        "name": "arva.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51b1093cca7e0840a8a0cb/[%width%]x[%height%]/arva.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51b1093cca7e0840a8a0cb",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51b1093cca7e0840a8a0cb/1024x500/arva.jpg"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c51b0ad3cca7e0840a8a0c7"
+    },
+    {
+      "_id": "5d08e6bd2712a2be7fc63d58",
+      "name": "Innogy",
+      "headerImage": {
+        "_id": "5c51af417a32e012407449ee",
+        "name": "29511289_1850729308291945_2084953633381143514_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51af417a32e012407449ee/[%width%]x[%height%]/29511289_1850729308291945_2084953633381143514_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51af417a32e012407449ee",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51af417a32e012407449ee/1024x500/29511289_1850729308291945_2084953633381143514_n.png"
+      },
+      "logo": {
+        "_id": "5c51af3b7a32e012407449ed",
+        "name": "46692417_2199259226772283_4718383533024870400_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51af3b7a32e012407449ed/[%width%]x[%height%]/46692417_2199259226772283_4718383533024870400_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51af3b7a32e012407449ed",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51af3b7a32e012407449ed/1024x500/46692417_2199259226772283_4718383533024870400_n.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c51ae453cca7e0840a8a0c3"
+    },
+    {
+      "_id": "5d08ea8c6f22abb47fe6b20c",
+      "name": "Douglas Parfümerie",
+      "headerImage": {
+        "_id": "5c51ab793cca7e0840a8a0b8",
+        "name": "24254856_10156022923554662_3094992295428876853_o.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51ab793cca7e0840a8a0b8/[%width%]x[%height%]/24254856_10156022923554662_3094992295428876853_o.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51ab793cca7e0840a8a0b8",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51ab793cca7e0840a8a0b8/1024x500/24254856_10156022923554662_3094992295428876853_o.jpg"
+      },
+      "logo": {
+        "_id": "5c51ab763cca7e0840a8a0b7",
+        "name": "38120613_10156668189089662_3703595302008127488_n.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51ab763cca7e0840a8a0b7/[%width%]x[%height%]/38120613_10156668189089662_3703595302008127488_n.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51ab763cca7e0840a8a0b7",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51ab763cca7e0840a8a0b7/1024x500/38120613_10156668189089662_3703595302008127488_n.jpg"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c51ab203cca7e0840a8a0b3"
+    },
+    {
+      "_id": "5d09e1096e72c65461d83843",
+      "name": "HelloFresh",
+      "headerImage": {
+        "_id": "5c519e6e7a32e01240744924",
+        "name": "hel2.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c519e6e7a32e01240744924/[%width%]x[%height%]/hel2.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c519e6e7a32e01240744924",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c519e6e7a32e01240744924/1024x500/hel2.jpg"
+      },
+      "logo": {
+        "_id": "5c519e6c7a32e01240744923",
+        "name": "hf1.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c519e6c7a32e01240744923/[%width%]x[%height%]/hf1.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c519e6c7a32e01240744923",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c519e6c7a32e01240744923/1024x500/hf1.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c519df47a32e01240744910"
+    },
+    {
+      "_id": "5d09f5556e72c65461d83a01",
+      "name": "MHM HR // MHM-Systemhaus GmbH",
+      "headerImage": {
+        "_id": "5c5190dd7239c0192fed3335",
+        "name": "6321_mhm_systemhaus_gmbh_l.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5190dd7239c0192fed3335/[%width%]x[%height%]/6321_mhm_systemhaus_gmbh_l.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5190dd7239c0192fed3335",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5190dd7239c0192fed3335/1024x500/6321_mhm_systemhaus_gmbh_l.jpg"
+      },
+      "logo": {
+        "_id": "5c5190807692a30f2fa88e08",
+        "name": "0.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5190807692a30f2fa88e08/[%width%]x[%height%]/0.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5190807692a30f2fa88e08",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5190807692a30f2fa88e08/1024x500/0.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c51900f7239c0192fed3330"
+    },
+    {
+      "_id": "5d0b42032f4957a77ebc45de",
+      "name": "Comtravo",
+      "headerImage": {
+        "_id": "5c517b700c9c05a32b1177d5",
+        "name": "com2.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c517b700c9c05a32b1177d5/[%width%]x[%height%]/com2.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c517b700c9c05a32b1177d5",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c517b700c9c05a32b1177d5/1024x500/com2.jpg"
+      },
+      "logo": {
+        "_id": "5c517b6d0c9c05a32b1177d4",
+        "name": "com1.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c517b6d0c9c05a32b1177d4/[%width%]x[%height%]/com1.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c517b6d0c9c05a32b1177d4",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c517b6d0c9c05a32b1177d4/1024x500/com1.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c517b3d32291caf2bdfe9a1"
+    },
+    {
+      "_id": "5d0b64f82f4957a77ebc47c4",
+      "name": "Delta Systemtechnik Horn GmbH",
+      "headerImage": {
+        "_id": "5c51632a0c9c05a32b117627",
+        "name": "delta2.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51632a0c9c05a32b117627/[%width%]x[%height%]/delta2.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51632a0c9c05a32b117627",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51632a0c9c05a32b117627/1024x500/delta2.jpg"
+      },
+      "logo": {
+        "_id": "5c5163260c9c05a32b117625",
+        "name": "delta1.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5163260c9c05a32b117625/[%width%]x[%height%]/delta1.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5163260c9c05a32b117625",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5163260c9c05a32b117625/1024x500/delta1.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c5162c632291caf2bdfe707"
+    },
+    {
+      "_id": "5d0c7ab5cf77388f721c740f",
+      "name": "Teraki",
+      "headerImage": {
+        "_id": "5c5060727b1f44197dda96df",
+        "name": "ter1.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5060727b1f44197dda96df/[%width%]x[%height%]/ter1.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5060727b1f44197dda96df",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5060727b1f44197dda96df/1024x500/ter1.jpg"
+      },
+      "logo": {
+        "_id": "5c506066cfbb120f7d67c278",
+        "name": "ter.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c506066cfbb120f7d67c278/[%width%]x[%height%]/ter.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c506066cfbb120f7d67c278",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c506066cfbb120f7d67c278/1024x500/ter.jpg"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c505feccfbb120f7d67c273"
+    },
+    {
+      "_id": "5d0c844694af09a3721ec9a8",
+      "name": "Opinary",
+      "headerImage": {
+        "_id": "5c505b6311397e5544869384",
+        "name": "opi1.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c505b6311397e5544869384/[%width%]x[%height%]/opi1.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c505b6311397e5544869384",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c505b6311397e5544869384/1024x500/opi1.jpg"
+      },
+      "logo": {
+        "_id": "5c505b5c5d81fc5f4425ab75",
+        "name": "opi.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c505b5c5d81fc5f4425ab75/[%width%]x[%height%]/opi.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c505b5c5d81fc5f4425ab75",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c505b5c5d81fc5f4425ab75/1024x500/opi.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c505b2e11397e554486937f"
+    },
+    {
+      "_id": "5d0c94f6cf77388f721c78d3",
+      "name": "kloeckner.i",
+      "headerImage": {
+        "_id": "5c504ef05d81fc5f4425a602",
+        "name": "large.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c504ef05d81fc5f4425a602/[%width%]x[%height%]/large.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c504ef05d81fc5f4425a602",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c504ef05d81fc5f4425a602/1024x500/large.jpg"
+      },
+      "logo": {
+        "_id": "5c504ddb5d81fc5f4425a601",
+        "name": "kopepi.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c504ddb5d81fc5f4425a601/[%width%]x[%height%]/kopepi.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c504ddb5d81fc5f4425a601",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c504ddb5d81fc5f4425a601/1024x500/kopepi.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c504d4f11397e55448692f8"
+    },
+    {
+      "_id": "5d0c9d8394af09a3721ecf44",
+      "name": "Tipico",
+      "headerImage": {
+        "_id": "5c50460911397e55448691df",
+        "name": "16105723_1632480543723283_738673767149234908_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c50460911397e55448691df/[%width%]x[%height%]/16105723_1632480543723283_738673767149234908_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c50460911397e55448691df",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c50460911397e55448691df/1024x500/16105723_1632480543723283_738673767149234908_n.png"
+      },
+      "logo": {
+        "_id": "5c5046005d81fc5f4425a484",
+        "name": "12931058_1527913330846672_6790391538536795700_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5046005d81fc5f4425a484/[%width%]x[%height%]/12931058_1527913330846672_6790391538536795700_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5046005d81fc5f4425a484",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5046005d81fc5f4425a484/1024x500/12931058_1527913330846672_6790391538536795700_n.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c5045c05d81fc5f4425a474"
+    },
+    {
+      "_id": "5d11f61d94af09a3721ed996",
+      "name": "Xain",
+      "headerImage": {
+        "_id": "5c5022d469c391db1b133ce6",
+        "name": "xain1.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5022d469c391db1b133ce6/[%width%]x[%height%]/xain1.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5022d469c391db1b133ce6",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5022d469c391db1b133ce6/1024x500/xain1.png"
+      },
+      "logo": {
+        "_id": "5c5022c89be98fe51bb0f94e",
+        "name": "xain.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5022c89be98fe51bb0f94e/[%width%]x[%height%]/xain.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5022c89be98fe51bb0f94e",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5022c89be98fe51bb0f94e/1024x500/xain.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c5022379be98fe51bb0f94b"
+    },
+    {
+      "_id": "5d121448ea41fe1f3f708c34",
+      "name": "Gtmhub",
+      "headerImage": {
+        "_id": "5c5012d99be98fe51bb0f901",
+        "name": "14425446_1158327014252471_3436936278785508175_o.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5012d99be98fe51bb0f901/[%width%]x[%height%]/14425446_1158327014252471_3436936278785508175_o.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5012d99be98fe51bb0f901",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5012d99be98fe51bb0f901/1024x500/14425446_1158327014252471_3436936278785508175_o.jpg"
+      },
+      "logo": {
+        "_id": "5c5012d59be98fe51bb0f900",
+        "name": "14955844_1194685503949955_6306608555295043871_n.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5012d59be98fe51bb0f900/[%width%]x[%height%]/14955844_1194685503949955_6306608555295043871_n.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5012d59be98fe51bb0f900",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5012d59be98fe51bb0f900/1024x500/14955844_1194685503949955_6306608555295043871_n.jpg"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c50129e69c391db1b133c9c"
+    },
+    {
+      "_id": "5d12170eea41fe1f3f708c43",
+      "name": "Dalia Research",
+      "headerImage": {
+        "_id": "5c500f5469c391db1b133c84",
+        "name": "11110384_750065068424480_692527842082021896_o.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c500f5469c391db1b133c84/[%width%]x[%height%]/11110384_750065068424480_692527842082021896_o.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c500f5469c391db1b133c84",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c500f5469c391db1b133c84/1024x500/11110384_750065068424480_692527842082021896_o.jpg"
+      },
+      "logo": {
+        "_id": "5c500f5169c391db1b133c83",
+        "name": "12687977_875742282523424_4057412448113667255_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c500f5169c391db1b133c83/[%width%]x[%height%]/12687977_875742282523424_4057412448113667255_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c500f5169c391db1b133c83",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c500f5169c391db1b133c83/1024x500/12687977_875742282523424_4057412448113667255_n.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c500f4269c391db1b133c80"
+    },
+    {
+      "_id": "5d13184c992313e16f58d366",
+      "name": "Adjust",
+      "headerImage": {
+        "_id": "5c4f14d9c8dc590c6246657e",
+        "name": "49531855_2084925991596917_8436691795261259776_o.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c4f14d9c8dc590c6246657e/[%width%]x[%height%]/49531855_2084925991596917_8436691795261259776_o.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f14d9c8dc590c6246657e",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f14d9c8dc590c6246657e/1024x500/49531855_2084925991596917_8436691795261259776_o.png"
+      },
+      "logo": {
+        "_id": "5c4f14d502139302629989ab",
+        "name": "17884627_1322819071140950_8404586154925926938_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c4f14d502139302629989ab/[%width%]x[%height%]/17884627_1322819071140950_8404586154925926938_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f14d502139302629989ab",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f14d502139302629989ab/1024x500/17884627_1322819071140950_8404586154925926938_n.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c4f14ac02139302629989a5"
+    },
+    {
+      "_id": "5d135c69ee4403f16fdc1e78",
+      "name": "Futurice",
+      "headerImage": {
+        "_id": "5c4eb5b5c8dc590c624663c6",
+        "name": "46495074_10160944181940005_7561671764380483584_o.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c4eb5b5c8dc590c624663c6/[%width%]x[%height%]/46495074_10160944181940005_7561671764380483584_o.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4eb5b5c8dc590c624663c6",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4eb5b5c8dc590c624663c6/1024x500/46495074_10160944181940005_7561671764380483584_o.jpg"
+      },
+      "logo": {
+        "_id": "5c4eb5b0c8dc590c624663c5",
+        "name": "26731619_10159724213945005_3963264995827591813_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c4eb5b0c8dc590c624663c5/[%width%]x[%height%]/26731619_10159724213945005_3963264995827591813_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4eb5b0c8dc590c624663c5",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4eb5b0c8dc590c624663c5/1024x500/26731619_10159724213945005_3963264995827591813_n.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c4eb4db02139302629987ec"
+    },
+    {
+      "_id": "5d136dc4992313e16f58d762",
+      "name": "LeROI Digital Intelligence Consulting",
+      "headerImage": {
+        "_id": "5c472e181ba8aee54e4ecf60",
+        "name": "Unknown.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c472e181ba8aee54e4ecf60/[%width%]x[%height%]/Unknown.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c472e181ba8aee54e4ecf60",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c472e181ba8aee54e4ecf60/1024x500/Unknown.png"
+      },
+      "logo": {
+        "_id": "5c472abb84d63fe603386527",
+        "name": "0.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c472abb84d63fe603386527/[%width%]x[%height%]/0.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c472abb84d63fe603386527",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c472abb84d63fe603386527/1024x500/0.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c472a9084d63fe603386523"
+    },
+    {
+      "_id": "5d13b19f1890b21e38103220",
+      "name": "Telefonica Germany NEXT GmbH",
+      "headerImage": {
+        "_id": "5d11c98894af09a3721ed585",
+        "name": "NEXT_2.jpeg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d11c98894af09a3721ed585/[%width%]x[%height%]/NEXT_2.jpeg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d11c98894af09a3721ed585",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d11c98894af09a3721ed585/1024x500/NEXT_2.jpeg"
+      },
+      "logo": {
+        "_id": "5d11c98194af09a3721ed582",
+        "name": "NEXT_1.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d11c98194af09a3721ed582/[%width%]x[%height%]/NEXT_1.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d11c98194af09a3721ed582",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d11c98194af09a3721ed582/1024x500/NEXT_1.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5d1116e35ee2aceb1ab22f98"
+    },
+    {
+      "_id": "5d14642ff867fdfe743beb67",
+      "name": "develop group Basys GmbH",
+      "headerImage": {
+        "_id": "5c52b3f881d9112d533f3f2a",
+        "name": "csm_develop_group_h_ee498413c7.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c52b3f881d9112d533f3f2a/[%width%]x[%height%]/csm_develop_group_h_ee498413c7.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52b3f881d9112d533f3f2a",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52b3f881d9112d533f3f2a/1024x500/csm_develop_group_h_ee498413c7.jpg"
+      },
+      "logo": {
+        "_id": "5c52b3c181d9112d533f3f29",
+        "name": "devgroup_neu.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c52b3c181d9112d533f3f29/[%width%]x[%height%]/devgroup_neu.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52b3c181d9112d533f3f29",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52b3c181d9112d533f3f29/1024x500/devgroup_neu.jpg"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c52b39481d9112d533f3f26"
+    },
+    {
+      "_id": "5d1465893e549808756dc1d9",
+      "name": "Etribes Connect GmbH",
+      "headerImage": {
+        "_id": "5c52ab3881d9112d533f3e6e",
+        "name": "logo.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c52ab3881d9112d533f3e6e/[%width%]x[%height%]/logo.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52ab3881d9112d533f3e6e",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52ab3881d9112d533f3e6e/1024x500/logo.png"
+      },
+      "logo": {
+        "_id": "5c52aaeafeb508bd154b7efd",
+        "name": "29021883_300x300.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c52aaeafeb508bd154b7efd/[%width%]x[%height%]/29021883_300x300.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c52aaeafeb508bd154b7efd",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c52aaeafeb508bd154b7efd/1024x500/29021883_300x300.jpg"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c52aa2a1e1ef8c71579342d"
+    },
+    {
+      "_id": "5d146eff3e549808756dc21b",
+      "name": "GE Energy Power Conversion GmbH",
+      "headerImage": {
+        "_id": "5c519cff7a32e0124074490d",
+        "name": "Itaipu_credit_to_Itaipu_Binacional.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c519cff7a32e0124074490d/[%width%]x[%height%]/Itaipu_credit_to_Itaipu_Binacional.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c519cff7a32e0124074490d",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c519cff7a32e0124074490d/1024x500/Itaipu_credit_to_Itaipu_Binacional.jpg"
+      },
+      "logo": {
+        "_id": "5c519cc27a32e0124074490c",
+        "name": "1200px_General_Electric_logo.svg.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c519cc27a32e0124074490c/[%width%]x[%height%]/1200px_General_Electric_logo.svg.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c519cc27a32e0124074490c",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c519cc27a32e0124074490c/1024x500/1200px_General_Electric_logo.svg.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c519a703cca7e0840a8a04d"
+    },
+    {
+      "_id": "5d148452872e75c7506fb45c",
+      "name": "blueforte GmbH",
+      "headerImage": {
+        "_id": "5d148768872e75c7506fb5ea",
+        "name": "IMG_3131.JPG",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d148768872e75c7506fb5ea/[%width%]x[%height%]/IMG_3131.JPG",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d148768872e75c7506fb5ea",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d148768872e75c7506fb5ea/1024x500/IMG_3131.JPG"
+      },
+      "logo": {
+        "_id": "5d0b929d4af41ed16f04c77a",
+        "name": "0.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d0b929d4af41ed16f04c77a/[%width%]x[%height%]/0.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b929d4af41ed16f04c77a",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b929d4af41ed16f04c77a/1024x500/0.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5d0b8fba1c6d3a5717e9f1d4"
+    },
+    {
+      "_id": "5d149e843e549808756dc588",
+      "name": "ZALVUS GmbH",
+      "headerImage": {
+        "_id": "5c51536832291caf2bdfe627",
+        "name": "zalvc.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51536832291caf2bdfe627/[%width%]x[%height%]/zalvc.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51536832291caf2bdfe627",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51536832291caf2bdfe627/1024x500/zalvc.jpg"
+      },
+      "logo": {
+        "_id": "5c51536532291caf2bdfe626",
+        "name": "zalv.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51536532291caf2bdfe626/[%width%]x[%height%]/zalv.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51536532291caf2bdfe626",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51536532291caf2bdfe626/1024x500/zalv.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c5152be0c9c05a32b1174d8"
+    },
+    {
+      "_id": "5d14c2063e549808756dda40",
+      "name": "KONUX GmbH",
+      "headerImage": {
+        "_id": "5c515be932291caf2bdfe6c5",
+        "name": "konc.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c515be932291caf2bdfe6c5/[%width%]x[%height%]/konc.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c515be932291caf2bdfe6c5",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c515be932291caf2bdfe6c5/1024x500/konc.jpg"
+      },
+      "logo": {
+        "_id": "5c515be332291caf2bdfe6c4",
+        "name": "kon.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c515be332291caf2bdfe6c4/[%width%]x[%height%]/kon.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c515be332291caf2bdfe6c4",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c515be332291caf2bdfe6c4/1024x500/kon.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c515b0b32291caf2bdfe6ba"
+    },
+    {
+      "_id": "5d15ad0ae126cf1746abfea2",
+      "name": "PwC Germany",
+      "headerImage": {
+        "_id": "5d14d6523e549808756ddd2f",
+        "name": "4.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d14d6523e549808756ddd2f/[%width%]x[%height%]/4.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d14d6523e549808756ddd2f",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d14d6523e549808756ddd2f/1024x500/4.jpg"
+      },
+      "logo": {
+        "_id": "5d14d64e3e549808756ddd2c",
+        "name": "5.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d14d64e3e549808756ddd2c/[%width%]x[%height%]/5.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d14d64e3e549808756ddd2c",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d14d64e3e549808756ddd2c/1024x500/5.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5d14d627f867fdfe743c14e2"
+    },
+    {
+      "_id": "5d15bfe7e126cf1746ac2c3d",
+      "name": "Novatec",
+      "headerImage": {
+        "_id": "5d15be9ddc572a2146cacbae",
+        "name": "0.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d15be9ddc572a2146cacbae/[%width%]x[%height%]/0.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d15be9ddc572a2146cacbae",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d15be9ddc572a2146cacbae/1024x500/0.jpg"
+      },
+      "logo": {
+        "_id": "5d15be9bdc572a2146cacbad",
+        "name": "0.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d15be9bdc572a2146cacbad/[%width%]x[%height%]/0.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d15be9bdc572a2146cacbad",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d15be9bdc572a2146cacbad/1024x500/0.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5d1500a3c93eacab2a1edafd"
+    },
+    {
+      "_id": "5d15cd2edc572a2146cad485",
+      "name": "Cogs Agency",
+      "headerImage": {
+        "_id": "5d0b357de69337b17e444555",
+        "name": "COGS2.jpeg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d0b357de69337b17e444555/[%width%]x[%height%]/COGS2.jpeg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b357de69337b17e444555",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b357de69337b17e444555/1024x500/COGS2.jpeg"
+      },
+      "logo": {
+        "_id": "5d0b3577e69337b17e444552",
+        "name": "COGS1.jpeg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d0b3577e69337b17e444552/[%width%]x[%height%]/COGS1.jpeg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b3577e69337b17e444552",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0b3577e69337b17e444552/1024x500/COGS1.jpeg"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5d0a4741b4f839114a46f25b"
+    },
+    {
+      "_id": "5d163c57672abd84672fb6c5",
+      "name": "FlixMobility GmbH",
+      "headerImage": {
+        "_id": "5d0a268ca36a4b5e61fb689d",
+        "name": "flixbus2.jpeg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d0a268ca36a4b5e61fb689d/[%width%]x[%height%]/flixbus2.jpeg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a268ca36a4b5e61fb689d",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a268ca36a4b5e61fb689d/1024x500/flixbus2.jpeg"
+      },
+      "logo": {
+        "_id": "5d0a267c6e72c65461d840cd",
+        "name": "flixbus1.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d0a267c6e72c65461d840cd/[%width%]x[%height%]/flixbus1.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a267c6e72c65461d840cd",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d0a267c6e72c65461d840cd/1024x500/flixbus1.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5d0a20d2b4f839114a46d4dc"
+    },
+    {
+      "_id": "5d19c4bd15a269c4298c450e",
+      "name": "MTS",
+      "headerImage": {
+        "_id": "5d17715931336d3c087baa81",
+        "name": "62547283_2088609634772797_1941276280934629376_o.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d17715931336d3c087baa81/[%width%]x[%height%]/62547283_2088609634772797_1941276280934629376_o.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d17715931336d3c087baa81",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d17715931336d3c087baa81/1024x500/62547283_2088609634772797_1941276280934629376_o.jpg"
+      },
+      "logo": {
+        "_id": "5d17715431336d3c087baa80",
+        "name": "44490355_1951488535151575_7655145843472728064_n.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d17715431336d3c087baa80/[%width%]x[%height%]/44490355_1951488535151575_7655145843472728064_n.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d17715431336d3c087baa80",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d17715431336d3c087baa80/1024x500/44490355_1951488535151575_7655145843472728064_n.jpg"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5d166bf71e955e7a6758c692"
+    },
+    {
+      "_id": "5d19e379e434cc69566c0c2c",
+      "name": "BCG Digital Ventures GmbH",
+      "headerImage": {
+        "_id": "5d19d090e434cc69566c0b96",
+        "name": "5.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d19d090e434cc69566c0b96/[%width%]x[%height%]/5.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d19d090e434cc69566c0b96",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d19d090e434cc69566c0b96/1024x500/5.jpg"
+      },
+      "logo": {
+        "_id": "5d19d08de434cc69566c0b95",
+        "name": "1.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95/[%width%]x[%height%]/1.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d19d08de434cc69566c0b95/1024x500/1.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5d19d0529dbd6c5f56e1fa0c"
+    },
+    {
+      "_id": "5d19ef71e434cc69566c0c87",
+      "name": "Aimondo",
+      "headerImage": {
+        "_id": "5c5049c311397e55448692ad",
+        "name": "aimo2.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5049c311397e55448692ad/[%width%]x[%height%]/aimo2.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5049c311397e55448692ad",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5049c311397e55448692ad/1024x500/aimo2.png"
+      },
+      "logo": {
+        "_id": "5c504aa711397e55448692dc",
+        "name": "aimo.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c504aa711397e55448692dc/[%width%]x[%height%]/aimo.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c504aa711397e55448692dc",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c504aa711397e55448692dc/1024x500/aimo.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c50498c5d81fc5f4425a58c"
+    },
+    {
+      "_id": "5d19f1d19dbd6c5f56e2072d",
+      "name": "Alter Solutions",
+      "headerImage": {
+        "_id": "5c5042e05d81fc5f4425a42d",
+        "name": "41546092_1107963742686676_4059348774575669248_o.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5042e05d81fc5f4425a42d/[%width%]x[%height%]/41546092_1107963742686676_4059348774575669248_o.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5042e05d81fc5f4425a42d",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5042e05d81fc5f4425a42d/1024x500/41546092_1107963742686676_4059348774575669248_o.jpg"
+      },
+      "logo": {
+        "_id": "5c5042da5d81fc5f4425a42c",
+        "name": "49432731_1186296278186755_8356064023480893440_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5042da5d81fc5f4425a42c/[%width%]x[%height%]/49432731_1186296278186755_8356064023480893440_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5042da5d81fc5f4425a42c",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5042da5d81fc5f4425a42c/1024x500/49432731_1186296278186755_8356064023480893440_n.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c5042575d81fc5f4425a423"
+    },
+    {
+      "_id": "5d19f683e434cc69566c0caa",
+      "name": "Webtrekk GmbH",
+      "headerImage": {
+        "_id": "5c500b089be98fe51bb0f8e3",
+        "name": "webt1.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c500b089be98fe51bb0f8e3/[%width%]x[%height%]/webt1.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c500b089be98fe51bb0f8e3",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c500b089be98fe51bb0f8e3/1024x500/webt1.png"
+      },
+      "logo": {
+        "_id": "5c500b009be98fe51bb0f8e2",
+        "name": "webt.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c500b009be98fe51bb0f8e2/[%width%]x[%height%]/webt.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c500b009be98fe51bb0f8e2",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c500b009be98fe51bb0f8e2/1024x500/webt.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c500ae369c391db1b133c64"
+    },
+    {
+      "_id": "5d1b488316c7b9806b53630b",
+      "name": "Frenus GmbH",
+      "headerImage": {
+        "_id": "5d1b48a00ca8a08a6ba5d61c",
+        "name": "images.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d1b48a00ca8a08a6ba5d61c/[%width%]x[%height%]/images.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b48a00ca8a08a6ba5d61c",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b48a00ca8a08a6ba5d61c/1024x500/images.jpg"
+      },
+      "logo": {
+        "_id": "5d1b467816c7b9806b5362f7",
+        "name": "0.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d1b467816c7b9806b5362f7/[%width%]x[%height%]/0.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b467816c7b9806b5362f7",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1b467816c7b9806b5362f7/1024x500/0.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5d1b46610ca8a08a6ba5d60b"
+    },
+    {
+      "_id": "5d1bc4a713c1017a1eb15c71",
+      "name": "KIProtect",
+      "headerImage": {
+        "_id": "5d1c49df6064a3ac29cef531",
+        "name": "KIProtect_2.jpeg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d1c49df6064a3ac29cef531/[%width%]x[%height%]/KIProtect_2.jpeg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c49df6064a3ac29cef531",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c49df6064a3ac29cef531/1024x500/KIProtect_2.jpeg"
+      },
+      "logo": {
+        "_id": "5d1c49d76064a3ac29cef52f",
+        "name": "KIProtect_1.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d1c49d76064a3ac29cef52f/[%width%]x[%height%]/KIProtect_1.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c49d76064a3ac29cef52f",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d1c49d76064a3ac29cef52f/1024x500/KIProtect_1.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5d1bc4a713c1017a1eb15c70"
+    },
+    {
+      "_id": "5d31afc2422589e5638f1888",
+      "name": "OSB AG",
+      "headerImage": {
+        "_id": "5c51bd572e4f9d657be3e8c0",
+        "name": "39127217_1844104929001923_6486381441461518336_n.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51bd572e4f9d657be3e8c0/[%width%]x[%height%]/39127217_1844104929001923_6486381441461518336_n.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51bd572e4f9d657be3e8c0",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51bd572e4f9d657be3e8c0/1024x500/39127217_1844104929001923_6486381441461518336_n.jpg"
+      },
+      "logo": {
+        "_id": "5c51bd522e4f9d657be3e8bf",
+        "name": "301408_362038203875277_1916828428_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c51bd522e4f9d657be3e8bf/[%width%]x[%height%]/301408_362038203875277_1916828428_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c51bd522e4f9d657be3e8bf",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c51bd522e4f9d657be3e8bf/1024x500/301408_362038203875277_1916828428_n.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c51bd42c069f06f7bb0e975"
+    },
+    {
+      "_id": "5d36a88fbba7d3ca19bdf64a",
+      "name": "SO1",
+      "headerImage": {
+        "_id": "5cdd6117c3d7616b30dcaef7",
+        "name": "Untitled_presentation_2_.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5cdd6117c3d7616b30dcaef7/[%width%]x[%height%]/Untitled_presentation_2_.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5cdd6117c3d7616b30dcaef7",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5cdd6117c3d7616b30dcaef7/1024x500/Untitled_presentation_2_.jpg"
+      },
+      "logo": {
+        "_id": "5cdd1cead6c186d878148da7",
+        "name": "0.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5cdd1cead6c186d878148da7/[%width%]x[%height%]/0.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5cdd1cead6c186d878148da7",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5cdd1cead6c186d878148da7/1024x500/0.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5cdd1b34c3d7616b30dc8847"
+    },
+    {
+      "_id": "5d5138f8da904e0bdeed9160",
+      "name": "Adform",
+      "headerImage": {
+        "_id": "5d5112eda87c832811a6ddad",
+        "name": "New_colleague.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d5112eda87c832811a6ddad/[%width%]x[%height%]/New_colleague.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d5112eda87c832811a6ddad",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d5112eda87c832811a6ddad/1024x500/New_colleague.jpg"
+      },
+      "logo": {
+        "_id": "5d511913166ca78a1bec14fa",
+        "name": "Adform_idon.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d511913166ca78a1bec14fa/[%width%]x[%height%]/Adform_idon.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d511913166ca78a1bec14fa",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d511913166ca78a1bec14fa/1024x500/Adform_idon.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c18cd09a8c64858124435a8"
+    },
+    {
+      "_id": "5d81dd82bfe3157de6742019",
+      "name": "AppLike",
+      "headerImage": {
+        "_id": "5d4beec63b07ec8f7f25dd7d",
+        "name": "Header_3_teil_office.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d4beec63b07ec8f7f25dd7d/[%width%]x[%height%]/Header_3_teil_office.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d4beec63b07ec8f7f25dd7d",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d4beec63b07ec8f7f25dd7d/1024x500/Header_3_teil_office.png"
+      },
+      "logo": {
+        "_id": "5d4beec33534d9840cc0dab5",
+        "name": "Logo_Square.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d4beec33534d9840cc0dab5/[%width%]x[%height%]/Logo_Square.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d4beec33534d9840cc0dab5",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d4beec33534d9840cc0dab5/1024x500/Logo_Square.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5d4be6e22a0dc60c7a056eef"
+    },
+    {
+      "_id": "5d9346e5281e240702a3c1e9",
+      "name": "Bonial International GmbH",
+      "headerImage": {
+        "_id": "5d92fe77244f9400159da096",
+        "name": "bonial_A7M01987.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d92fe77244f9400159da096/[%width%]x[%height%]/bonial_A7M01987.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d92fe77244f9400159da096",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d92fe77244f9400159da096/1024x500/bonial_A7M01987.jpg"
+      },
+      "logo": {
+        "_id": "5d92fe5438531c0012a2bfee",
+        "name": "bonial_1200x1200white.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d92fe5438531c0012a2bfee/[%width%]x[%height%]/bonial_1200x1200white.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d92fe5438531c0012a2bfee",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d92fe5438531c0012a2bfee/1024x500/bonial_1200x1200white.jpg"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5d92f77845451c5f2ae7e121"
+    },
+    {
+      "_id": "5d96e3866717620c84b99eb5",
+      "name": "Norstat Group",
+      "headerImage": {
+        "_id": "5d96078b50530600126900dc",
+        "name": "Screenshot_2019_10_03_at_17.36.32.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d96078b50530600126900dc/[%width%]x[%height%]/Screenshot_2019_10_03_at_17.36.32.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d96078b50530600126900dc",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d96078b50530600126900dc/1024x500/Screenshot_2019_10_03_at_17.36.32.png"
+      },
+      "logo": {
+        "_id": "5d9467f21d8249001202cb0e",
+        "name": "Screenshot_2019_10_02_at_12.03.32.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5d9467f21d8249001202cb0e/[%width%]x[%height%]/Screenshot_2019_10_02_at_12.03.32.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5d9467f21d8249001202cb0e",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5d9467f21d8249001202cb0e/1024x500/Screenshot_2019_10_02_at_12.03.32.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5d94676bce37e14d64147c85"
+    },
+    {
+      "_id": "5da9706dc7660905be9a7fe0",
+      "name": "Biomes",
+      "headerImage": {
+        "_id": "5c5160e632291caf2bdfe6fc",
+        "name": "bio2.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5160e632291caf2bdfe6fc/[%width%]x[%height%]/bio2.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5160e632291caf2bdfe6fc",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5160e632291caf2bdfe6fc/1024x500/bio2.png"
+      },
+      "logo": {
+        "_id": "5c5160e10c9c05a32b1175c8",
+        "name": "bio1.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5160e10c9c05a32b1175c8/[%width%]x[%height%]/bio1.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5160e10c9c05a32b1175c8",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5160e10c9c05a32b1175c8/1024x500/bio1.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c5160be0c9c05a32b1175be"
+    },
+    {
+      "_id": "5dd5140ded79f84f16191326",
+      "name": "F-Secure",
+      "headerImage": {
+        "_id": "5bbdc711e6e6b7dc1dd0d833",
+        "name": "tgLyv.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5bbdc711e6e6b7dc1dd0d833/[%width%]x[%height%]/tgLyv.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5bbdc711e6e6b7dc1dd0d833",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5bbdc711e6e6b7dc1dd0d833/1024x500/tgLyv.jpg"
+      },
+      "logo": {
+        "_id": "5dd5140a5cf9c400134fb7cf",
+        "name": "F_Secure_vertical_logo_CMYK_blue.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5dd5140a5cf9c400134fb7cf/[%width%]x[%height%]/F_Secure_vertical_logo_CMYK_blue.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5dd5140a5cf9c400134fb7cf",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5dd5140a5cf9c400134fb7cf/1024x500/F_Secure_vertical_logo_CMYK_blue.jpg"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5bb72f444e19763710766198"
+    },
+    {
+      "_id": "5ddd3a4175974720bda79d7d",
+      "name": "Solita",
+      "headerImage": {
+        "_id": "5c6d0d5a8f0b8f1a58ee3098",
+        "name": "28575980_4574505019239188_6782322838118692631_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c6d0d5a8f0b8f1a58ee3098/[%width%]x[%height%]/28575980_4574505019239188_6782322838118692631_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c6d0d5a8f0b8f1a58ee3098",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c6d0d5a8f0b8f1a58ee3098/1024x500/28575980_4574505019239188_6782322838118692631_n.png"
+      },
+      "logo": {
+        "_id": "5c6d0d568f0b8f1a58ee3097",
+        "name": "28576022_4574500089239681_8628320797485258847_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c6d0d568f0b8f1a58ee3097/[%width%]x[%height%]/28576022_4574500089239681_8628320797485258847_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c6d0d568f0b8f1a58ee3097",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c6d0d568f0b8f1a58ee3097/1024x500/28576022_4574500089239681_8628320797485258847_n.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c6d0cd68f0b8f1a58ee3094"
+    },
+    {
+      "_id": "5df62659a276df0012b2d54a",
+      "name": "Vaisala Oyj",
+      "headerImage": {
+        "_id": "5c54599dc61d2a2654ab7741",
+        "name": "vaisc.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c54599dc61d2a2654ab7741/[%width%]x[%height%]/vaisc.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c54599dc61d2a2654ab7741",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c54599dc61d2a2654ab7741/1024x500/vaisc.jpg"
+      },
+      "logo": {
+        "_id": "5c54599560f9371c545115a4",
+        "name": "vais.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c54599560f9371c545115a4/[%width%]x[%height%]/vais.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c54599560f9371c545115a4",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c54599560f9371c545115a4/1024x500/vais.jpg"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5c545972c61d2a2654ab773e"
+    },
+    {
+      "_id": "5dfcbf56d1ca0b0012e51900",
+      "name": "Aiven",
+      "headerImage": {
+        "_id": "5c88ee6237c3d4ec2f18cb61",
+        "name": "aiven_recruit_1024x.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c88ee6237c3d4ec2f18cb61/[%width%]x[%height%]/aiven_recruit_1024x.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c88ee6237c3d4ec2f18cb61",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c88ee6237c3d4ec2f18cb61/1024x500/aiven_recruit_1024x.png"
+      },
+      "logo": {
+        "_id": "5b9f845e7cba81f912cc1fed",
+        "name": "28166590_567920460235913_1943250101138441442_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5b9f845e7cba81f912cc1fed/[%width%]x[%height%]/28166590_567920460235913_1943250101138441442_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5b9f845e7cba81f912cc1fed",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5b9f845e7cba81f912cc1fed/1024x500/28166590_567920460235913_1943250101138441442_n.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5b9f8422ac012041059300a7"
+    },
+    {
+      "_id": "5e297a7c212888001231f1fb",
+      "name": "RELEX",
+      "headerImage": {
+        "_id": "5bec183263c633160dcceb5c",
+        "name": "35547729_2116168825292340_6454808166206013440_o.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5bec183263c633160dcceb5c/[%width%]x[%height%]/35547729_2116168825292340_6454808166206013440_o.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5bec183263c633160dcceb5c",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5bec183263c633160dcceb5c/1024x500/35547729_2116168825292340_6454808166206013440_o.jpg"
+      },
+      "logo": {
+        "_id": "5bec181f63c633160dcceb56",
+        "name": "Unknown.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5bec181f63c633160dcceb56/[%width%]x[%height%]/Unknown.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5bec181f63c633160dcceb56",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5bec181f63c633160dcceb56/1024x500/Unknown.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5be92ed938afd8ae2fa8bfc5"
+    },
+    {
+      "_id": "5e6b9dd3aa882b0012deea3f",
+      "name": "Admiral Markets Group",
+      "headerImage": {
+        "_id": "5e6b556b3a853c0012dd1749",
+        "name": "versioon1_1_.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5e6b556b3a853c0012dd1749/[%width%]x[%height%]/versioon1_1_.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5e6b556b3a853c0012dd1749",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5e6b556b3a853c0012dd1749/1024x500/versioon1_1_.jpg"
+      },
+      "logo": {
+        "_id": "5bb4c0eef9b8440a106fd1e6",
+        "name": "1233546_539444612789742_939136462_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5bb4c0eef9b8440a106fd1e6/[%width%]x[%height%]/1233546_539444612789742_939136462_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5bb4c0eef9b8440a106fd1e6",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5bb4c0eef9b8440a106fd1e6/1024x500/1233546_539444612789742_939136462_n.png"
+      },
+      "isComplete": true,
+      "isGhost": false,
+      "company": "5abb62bac62eb86319d29920"
+    },
+    {
+      "_id": "5c0d31559162454d67d33385",
+      "name": "Data2Decisions",
+      "headerImage": {
+        "_id": "5c0d32159162454d67d33389",
+        "name": "images_3_.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c0d32159162454d67d33389/[%width%]x[%height%]/images_3_.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c0d32159162454d67d33389",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c0d32159162454d67d33389/1024x500/images_3_.jpg"
+      },
+      "logo": {
+        "_id": "5c0d31829162454d67d33387",
+        "name": "0_3_.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c0d31829162454d67d33387/[%width%]x[%height%]/0_3_.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c0d31829162454d67d33387",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c0d31829162454d67d33387/1024x500/0_3_.png"
+      },
+      "isComplete": false,
+      "isGhost": true,
+      "company": "5c0d31559162454d67d33384"
+    },
+    {
+      "_id": "5c45a69d00064db92683bdb7",
+      "name": "KI group",
+      "headerImage": {
+        "_id": "5c45a60c00064db92683bdac",
+        "name": "Screen_Shot_2019_01_21_at_12.59.14_PM.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c45a60c00064db92683bdac/[%width%]x[%height%]/Screen_Shot_2019_01_21_at_12.59.14_PM.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c45a60c00064db92683bdac",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c45a60c00064db92683bdac/1024x500/Screen_Shot_2019_01_21_at_12.59.14_PM.png"
+      },
+      "logo": {
+        "_id": "5c45a60800064db92683bdab",
+        "name": "0.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c45a60800064db92683bdab/[%width%]x[%height%]/0.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c45a60800064db92683bdab",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c45a60800064db92683bdab/1024x500/0.png"
+      },
+      "isComplete": false,
+      "isGhost": true,
+      "company": "5c45a5a300064db92683bda6"
+    },
+    {
+      "_id": "5c487d63858ba91d7c8ca550",
+      "name": "AMLS",
+      "headerImage": {
+        "_id": "5c484e7e00cbdd5142cfa68e",
+        "name": "1.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c484e7e00cbdd5142cfa68e/[%width%]x[%height%]/1.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c484e7e00cbdd5142cfa68e",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c484e7e00cbdd5142cfa68e/1024x500/1.jpg"
+      },
+      "logo": {
+        "_id": "5c484e7b00cbdd5142cfa68c",
+        "name": "0.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c484e7b00cbdd5142cfa68c/[%width%]x[%height%]/0.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c484e7b00cbdd5142cfa68c",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c484e7b00cbdd5142cfa68c/1024x500/0.jpg"
+      },
+      "isComplete": false,
+      "isGhost": true,
+      "company": "5c484dce00cbdd5142cfa411"
+    },
+    {
+      "_id": "5c4f1159c8dc590c6246656d",
+      "name": "Lifelife",
+      "headerImage": {
+        "_id": "5c4f12b7c8dc590c62466576",
+        "name": "unnamed_2.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c4f12b7c8dc590c62466576/[%width%]x[%height%]/unnamed_2.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f12b7c8dc590c62466576",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f12b7c8dc590c62466576/1024x500/unnamed_2.png"
+      },
+      "logo": {
+        "_id": "5c4f126b02139302629989a0",
+        "name": "12107149_433736160168494_7558281583795570969_n.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c4f126b02139302629989a0/[%width%]x[%height%]/12107149_433736160168494_7558281583795570969_n.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f126b02139302629989a0",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c4f126b02139302629989a0/1024x500/12107149_433736160168494_7558281583795570969_n.png"
+      },
+      "isComplete": false,
+      "isGhost": true,
+      "company": "5c4f1159c8dc590c6246656c"
+    },
+    {
+      "_id": "5c503ca911397e5544869072",
+      "name": "Trevor Technology Ltd",
+      "headerImage": {
+        "_id": "5c503cde11397e5544869077",
+        "name": "trevc.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c503cde11397e5544869077/[%width%]x[%height%]/trevc.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c503cde11397e5544869077",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c503cde11397e5544869077/1024x500/trevc.png"
+      },
+      "logo": {
+        "_id": "5c503cd85d81fc5f4425a3da",
+        "name": "trev.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c503cd85d81fc5f4425a3da/[%width%]x[%height%]/trev.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c503cd85d81fc5f4425a3da",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c503cd85d81fc5f4425a3da/1024x500/trev.jpg"
+      },
+      "isComplete": false,
+      "isGhost": true,
+      "company": "5c503ca911397e5544869071"
+    },
+    {
+      "_id": "5c5175350c9c05a32b1177bb",
+      "name": "Alex Jacobi Audiovisual Intelligence GmbH",
+      "headerImage": {
+        "_id": "5c5173c332291caf2bdfe963",
+        "name": "alex2.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5173c332291caf2bdfe963/[%width%]x[%height%]/alex2.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5173c332291caf2bdfe963",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5173c332291caf2bdfe963/1024x500/alex2.png"
+      },
+      "logo": {
+        "_id": "5c5173c132291caf2bdfe962",
+        "name": "alex1.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5173c132291caf2bdfe962/[%width%]x[%height%]/alex1.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5173c132291caf2bdfe962",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5173c132291caf2bdfe962/1024x500/alex1.png"
+      },
+      "isComplete": false,
+      "isGhost": true,
+      "company": "5c51733a0c9c05a32b11777e"
+    },
+    {
+      "_id": "5c5181387ae90b011bc2e696",
+      "name": "TiSC AG ",
+      "headerImage": {
+        "_id": "5c5182777ae90b011bc2e69a",
+        "name": "tiscc.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5182777ae90b011bc2e69a/[%width%]x[%height%]/tiscc.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5182777ae90b011bc2e69a",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5182777ae90b011bc2e69a/1024x500/tiscc.jpg"
+      },
+      "logo": {
+        "_id": "5c5182717ae90b011bc2e699",
+        "name": "tisc.jpeg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c5182717ae90b011bc2e699/[%width%]x[%height%]/tisc.jpeg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c5182717ae90b011bc2e699",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c5182717ae90b011bc2e699/1024x500/tisc.jpeg"
+      },
+      "isComplete": false,
+      "isGhost": true,
+      "company": "5c5181387ae90b011bc2e695"
+    },
+    {
+      "_id": "5c54203d60f9371c54510aff",
+      "name": "Nord Pool",
+      "headerImage": {
+        "_id": "5c542ac660f9371c54510b29",
+        "name": "nop_logo.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c542ac660f9371c54510b29/[%width%]x[%height%]/nop_logo.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c542ac660f9371c54510b29",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c542ac660f9371c54510b29/1024x500/nop_logo.jpg"
+      },
+      "logo": {
+        "_id": "5c542ac460f9371c54510b28",
+        "name": "NordPool_BLUE_RGB.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c542ac460f9371c54510b28/[%width%]x[%height%]/NordPool_BLUE_RGB.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c542ac460f9371c54510b28",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c542ac460f9371c54510b28/1024x500/NordPool_BLUE_RGB.jpg"
+      },
+      "isComplete": false,
+      "isGhost": true,
+      "company": "5c54203d60f9371c54510afe"
+    },
+    {
+      "_id": "5c5427d660f9371c54510b22",
+      "name": "Noona Healthcare Oy",
+      "headerImage": {
+        "_id": "5c54285260f9371c54510b25",
+        "name": "noonac.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c54285260f9371c54510b25/[%width%]x[%height%]/noonac.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c54285260f9371c54510b25",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c54285260f9371c54510b25/1024x500/noonac.jpg"
+      },
+      "logo": {
+        "_id": "5c54284a60f9371c54510b24",
+        "name": "noona.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c54284a60f9371c54510b24/[%width%]x[%height%]/noona.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c54284a60f9371c54510b24",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c54284a60f9371c54510b24/1024x500/noona.png"
+      },
+      "isComplete": false,
+      "isGhost": true,
+      "company": "5c5427d660f9371c54510b21"
+    },
+    {
+      "_id": "5c580a23e08cd9bc16a2886b",
+      "name": "Bisnode Finland Oy",
+      "headerImage": {
+        "_id": "5c580a38e08cd9bc16a2886e",
+        "name": "42232516_807232479611257_5396664765776920576_n.jpg",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c580a38e08cd9bc16a2886e/[%width%]x[%height%]/42232516_807232479611257_5396664765776920576_n.jpg",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c580a38e08cd9bc16a2886e",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c580a38e08cd9bc16a2886e/1024x500/42232516_807232479611257_5396664765776920576_n.jpg"
+      },
+      "logo": {
+        "_id": "5c580a34e08cd9bc16a2886d",
+        "name": "35807832_721783008156205_3468340074687496192_o.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c580a34e08cd9bc16a2886d/[%width%]x[%height%]/35807832_721783008156205_3468340074687496192_o.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c580a34e08cd9bc16a2886d",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c580a34e08cd9bc16a2886d/1024x500/35807832_721783008156205_3468340074687496192_o.png"
+      },
+      "isComplete": false,
+      "isGhost": true,
+      "company": "5c580a23e08cd9bc16a2886a"
+    },
+    {
+      "_id": "5c595ffd54bd59ae663af0ea",
+      "name": "Nortal",
+      "headerImage": {
+        "_id": "5c59607e54bd59ae663af0ec",
+        "name": "27797971_1682235721815648_1729332406380205525_o.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c59607e54bd59ae663af0ec/[%width%]x[%height%]/27797971_1682235721815648_1729332406380205525_o.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c59607e54bd59ae663af0ec",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c59607e54bd59ae663af0ec/1024x500/27797971_1682235721815648_1729332406380205525_o.png"
+      },
+      "logo": {
+        "_id": "5c59607be71105a4664cf991",
+        "name": "12371069_988474527858441_4152329939611705947_o.png",
+        "template": "https://defqg3hhd82zq.cloudfront.net/5c59607be71105a4664cf991/[%width%]x[%height%]/12371069_988474527858441_4152329939611705947_o.png",
+        "baseUrl": "https://defqg3hhd82zq.cloudfront.net/5c59607be71105a4664cf991",
+        "defaultUrl": "https://defqg3hhd82zq.cloudfront.net/5c59607be71105a4664cf991/1024x500/12371069_988474527858441_4152329939611705947_o.png"
+      },
+      "isComplete": false,
+      "isGhost": true,
+      "company": "5c595ffd54bd59ae663af0e9"
+    }
+  ]
+}
